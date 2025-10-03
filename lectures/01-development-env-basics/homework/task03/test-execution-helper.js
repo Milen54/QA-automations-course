@@ -1,4 +1,4 @@
-function startTestSuite(suiteName) {
+export function startTestSuite(suiteName) {
   console.log("Starting Test Suite:", suiteName);
 
   let startTime = new Date().toISOString();
@@ -8,7 +8,7 @@ function startTestSuite(suiteName) {
 }
 // startTestSuite("Milen");
 
-function endTestSuite(suiteName, startTime) {
+export function endTestSuite(suiteName, startTime) {
   let endTime = new Date();
 
   let duration = endTime - new Date(startTime);
@@ -18,11 +18,11 @@ function endTestSuite(suiteName, startTime) {
 
   return duration;
 }
-let startTime = startTestSuite("Milen");
+//let startTime = startTestSuite("Milen");
 
-endTestSuite("Milen", startTime);
+// endTestSuite("Milen", startTime);
 
-function logTestStep(stepNumber, description, status) {
+export function logTestStep(stepNumber, description, status) {
   const timestamp = new Date().toISOString();
 
   let message = `[${timestamp}] Step ${stepNumber}: ${description} => ${status.toUpperCase()}`;
@@ -35,9 +35,9 @@ function logTestStep(stepNumber, description, status) {
     console.warn(message);
   }
 }
-logTestStep(2, "Open login page", "pass");
+// logTestStep(2, "Open login page", "pass");
 
-function generateTestReport(testResults) {
+export function generateTestReport(testResults) {
   let totalTest = testResults.passed + testResults.failed + testResults.skipped;
   let passPercentage = (testResults.passed / totalTest) * 100;
   console.log("Total tests:", totalTest);
@@ -49,9 +49,9 @@ let testResults = {
   failed: 2,
   skipped: 3,
 };
-generateTestReport(testResults);
+// generateTestReport(testResults);
 
-function debugVariable(variableName, variableValue) {
+export function debugVariable(variableName, variableValue) {
   const type = typeof variableValue;
   console.log(
     `Variable: ${variableName} | Value: ${variableValue} | Type: ${type}`
@@ -62,6 +62,6 @@ let age = 25;
 let isActive = true;
 let name = "Milen";
 
-debugVariable("age", age);
-debugVariable("isActive", isActive);
-debugVariable("Milen", name);
+// debugVariable("age", age);
+// debugVariable("isActive", isActive);
+// debugVariable("Milen", name);

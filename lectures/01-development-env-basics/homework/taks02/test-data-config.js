@@ -15,19 +15,19 @@ export const debugMode = true;
 export const runSlowTests = false;
 export const useTestData = true;
 
-function validateEmail(email) {
+export function validateEmail(email) {
   return email.includes("@") && email.includes(".");
 }
 
-function validatePassword(password) {
+export function validatePassword(password) {
   return password.length >= 8;
 }
 
-function generateUniqueEmail(testUser) {
+export function generateUniqueEmail(testUser) {
   return testUser + Date.now() + "@testmail.com";
 }
 
-function logTestConfiguration() {
+export function logTestConfiguration() {
   const currentTime = new Date().toLocaleString();
 
   console.log("=== Test Configuration ===");
@@ -47,4 +47,4 @@ function logTestConfiguration() {
   console.log("Configuration loaded at:", currentTime);
   console.log("======================");
 }
-logTestConfiguration();
+// logTestConfiguration();

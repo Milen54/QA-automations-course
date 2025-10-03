@@ -1,12 +1,12 @@
 export function checkNodeVersion() {
   const version = process.version;
-  console.log("Node.js version:", version);
+  //console.log("Node.js version:", version);
   return version;
 }
 
 export function checkNpmVersion() {
   const npmVersion = process.env.npm_version || "Not available";
-  console.log("NPM version:", npmVersion);
+  //console.log("NPM version:", npmVersion);
   return npmVersion;
 }
 
