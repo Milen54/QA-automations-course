@@ -1,4 +1,4 @@
-function generateTestUserName(basePrefix) {
+export function generateTestUserName(basePrefix) {
   const timestamp = Date.now();
 
   const username = basePrefix + "_" + timestamp;
@@ -6,13 +6,13 @@ function generateTestUserName(basePrefix) {
   console.log(username);
   return username;
 }
-generateTestUserName("testuser");
+// generateTestUserName("testuser");
 
-function buildTestUrl(environment, endpoint, userid) {
+export function buildTestUrl(environment, endpoint, userid) {
   const URL = `https://${environment}.testsite.com/${endpoint}?user=${userid}`;
   console.log(URL);
 }
-buildTestUrl("Quality Assurance", "tests", "22");
+// buildTestUrl("Quality Assurance", "tests", "22");
 
 function createTestMessage(testName, status, duration) {
   const testMessage = `Test: ${testName} | Status: ${status} | Duration: ${duration}ms`;
@@ -20,15 +20,15 @@ function createTestMessage(testName, status, duration) {
 }
 createTestMessage("Add to cart", "approved", "5");
 
-function calculateResponseTime(startTime, endTime) {
+export function calculateResponseTime(startTime, endTime) {
   let duration = endTime - startTime;
   console.log(`Response time: ${duration}ms`);
 
   return duration;
 }
-calculateResponseTime(15, 16);
+// calculateResponseTime(15, 16);
 
-function calculateSuccessRate(totalTests, passedTests) {
+export function calculateSuccessRate(totalTests, passedTests) {
   let failedTests = totalTests - passedTests;
   let successRate = (passedTests / totalTests) * 100;
 
@@ -39,7 +39,7 @@ function calculateSuccessRate(totalTests, passedTests) {
 
   return { totalTests, passedTests, failedTests, successRate };
 }
-calculateSuccessRate(10, 5);
+// calculateSuccessRate(10, 5);
 
 function adjustTimeout(baseTimeout, multiplier) {
   let timeout = baseTimeout * multiplier;
