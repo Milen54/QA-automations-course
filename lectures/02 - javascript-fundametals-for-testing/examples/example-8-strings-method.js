@@ -2,6 +2,7 @@ let errorMessage = "Invalid email adress provided";
 let userName = "   john.doe@example.com  ";
 let pageTitle = "QA Automation Dashboard";
 let apiResponse = "User created successfully with ID: 12345";
+console.log(apiResponse);
 
 // indexOf - find position of text (return -1 if not found)
 let emailErrorPosition = errorMessage.indexOf("email");
