@@ -17,7 +17,7 @@ export function determineTestAction(testResult, retryCount) {
 // determineTestAction("fail", 2);
 // determineTestAction("Milen", -145);
 
-function validateTestData(email, password, age) {
+export function validateTestData(email, password, age) {
   if (email != null && email.includes("@")) {
     console.log("Email is not null and includes @");
     if (password.length >= 8) {
@@ -33,7 +33,7 @@ function validateTestData(email, password, age) {
   }
   return "invalid email";
 }
-validateTestData("milen@abv.bg", "12345678", 23);
+// validateTestData("milen@abv.bg", "12345678", 23);
 
 export function processTestResults(totalTests, passedTests, environment) {
   let failedTests = totalTests - passedTests;
@@ -83,7 +83,7 @@ export function determineTimeout(environment) {
 }
 //determineTimeout("qa");
 
-function formatTestDuration(durationMs) {
+export function formatTestDuration(durationMs) {
   let originalDuration = durationMs;
   let testDuration =
     durationMs < 1000 ? durationMs + "ms" : durationMs / 1000 + "s";
@@ -93,7 +93,7 @@ function formatTestDuration(durationMs) {
 
   return testDuration;
 }
-formatTestDuration(1000);
+// formatTestDuration(1000);
 
 export function getTestPriority(errorCount, responseTime) {
   let testPriority =
@@ -106,6 +106,31 @@ export function getTestPriority(errorCount, responseTime) {
 }
 // getTestPriority(10, 2000);
 // getTestPriority(0, 500);
+
+export function handleTestEnvironment(environment) {
+
+  let message;
+
+  switch (environment) {
+    case "development":
+      message = "Using dev settings";
+      break;
+    case "staging":
+      message = "Using staging settings";
+      break;
+    case "production":
+      message = "Using production settings";
+      break;
+    default:
+      message = "Unknown environment" ;      
+  }
+    
+  // console.log(message);
+
+  return message;
+
+}
+// handleTestEnvironment("development");
 
 export function processHTTPStatusCode(statusCode) {
   let message;
@@ -140,7 +165,7 @@ export function processHTTPStatusCode(statusCode) {
 // processHTTPStatusCode(404);
 // processHTTPStatusCode(418);
 
-function selectTestDataSet(testType) {
+export function selectTestDataSet(testType) {
   let dataSet;
 
   switch (testType) {
@@ -180,7 +205,7 @@ function selectTestDataSet(testType) {
 
   return dataSet;
 }
-selectTestDataSet("api");
+// selectTestDataSet("api");
 
 export function complexTestDecision(userRole, environment, testType, hasPermission) {
   let allowed = false;

@@ -5,23 +5,14 @@
 
 // ==== TASK 01: Utility Functions === 
 import { buildTestUrl, generateTestUserName } from "./task01/test-data-generators.js";
-import { calculateResponseTime } from "./task01/test-data-generators.js";
-import { calculateSuccessRate } from "./task01/test-data-generators.js";
 
 // ==== TASK 02: Validation Logic ===
-import { validateEmailFormat } from "./task02/test-validator.js";
-import { validateTestNotFailed } from "./task02/test-validator.js";
-import { complexValidationScenario } from "./task02/test-validator.js";
 import { validateCompleteAPIResponse } from "./task02/test-validator.js";
 
 // ==== TASK 03: Decision & Flow Control ===
-import { processTestResults } from "./task03/test-decision-engine.js";
-import { getTestStatus } from "./task03/test-decision-engine.js";
 import { determineTimeout } from "./task03/test-decision-engine.js";
-import { getTestPriority } from "./task03/test-decision-engine.js";
-import { processHTTPStatusCode } from "./task03/test-decision-engine.js";
-import { complexTestDecision } from "./task03/test-decision-engine.js";
 import { determineTestAction } from "./task03/test-decision-engine.js";
+import { handleTestEnvironment } from "./task03/test-decision-engine.js";
 
 export function executeTestScenario(scenarioName, environment, userRole, expectedResults) {
     console.log(`---Executing Test Scenario: ${scenarioName}---`);
@@ -40,6 +31,7 @@ export function executeTestScenario(scenarioName, environment, userRole, expecte
     const errorCount = expectedResults.errorCount ?? 0;
 
     const apiIsValid = validateCompleteAPIResponse(statusCode, responseTime, hasData, errorCount);
+    console.log(handleTestEnvironment("development"));
     const testResultStr = apiIsValid ? "pass" : "fail";
     const retryCount = 1;
     const nextAction = determineTestAction(testResultStr, retryCount);

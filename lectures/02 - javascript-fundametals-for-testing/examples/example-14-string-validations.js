@@ -30,6 +30,7 @@ function processApiResponse(responseMessage) {
     const isValid = validateSuccessMessage(responseMessage);
 
     if (isValid) {
+        const userId = extractUserId(responseMessage);
     if (userId != null && !Number.isNaN(userId)) {
         console.log(`Response is valid. Extracted user ID: ${userId}`);
         return { isValid: true, userId};

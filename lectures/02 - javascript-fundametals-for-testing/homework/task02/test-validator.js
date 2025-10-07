@@ -1,4 +1,4 @@
-function validateStatusCode(expectedCode, actualCode) {
+export function validateStatusCode(expectedCode, actualCode) {
   console.log(`Expected code: ${expectedCode}`);
   console.log(`Actual code: ${actualCode}`);
 
@@ -13,9 +13,9 @@ function validateStatusCode(expectedCode, actualCode) {
     return false;
   }
 }
-validateStatusCode(200, "200");
+// validateStatusCode(200, "200");
 
-function validateResponseTime(actualTime, maxAllowedTime) {
+export function validateResponseTime(actualTime, maxAllowedTime) {
   let result = actualTime <= maxAllowedTime;
 
   console.log(
@@ -23,10 +23,10 @@ function validateResponseTime(actualTime, maxAllowedTime) {
   );
   return result;
 }
-validateResponseTime(200, 500);
-validateResponseTime(600, 500);
+// validateResponseTime(200, 500);
+// validateResponseTime(600, 500);
 
-function validatePerformanceRange(responseTime, minTime, maxTime) {
+export function validatePerformanceRange(responseTime, minTime, maxTime) {
   const result = responseTime >= minTime && responseTime <= maxTime;
 
   console.log(
@@ -34,18 +34,18 @@ function validatePerformanceRange(responseTime, minTime, maxTime) {
   );
   return result;
 }
-validatePerformanceRange(150, 100, 200);
+// validatePerformanceRange(150, 100, 200);
 
-function compareVersions(currentVersion, requiredVersion) {
+export function compareVersions(currentVersion, requiredVersion) {
   const result = currentVersion !== requiredVersion;
 
   console.log(
     `The versions are different: Current version: ${currentVersion} and ${requiredVersion} // ${result}`
   );
 }
-compareVersions("5.5", "6.5");
+// compareVersions("5.5", "6.5");
 
-function validateErrorMessage(errorMessage) {
+export function validateErrorMessage(errorMessage) {
   const message = errorMessage.toLowerCase();
   const hasError = message.includes("error");
   const position = message.indexOf("error");
@@ -61,10 +61,10 @@ function validateErrorMessage(errorMessage) {
 
   return hasError;
 }
-validateErrorMessage("PageError");
-validateErrorMessage("None");
+// validateErrorMessage("PageError");
+// validateErrorMessage("None");
 
-function extractUserIdFromResponse(responseText) {
+export function extractUserIdFromResponse(responseText) {
   const idPosition = responseText.indexOf("ID:");
 
   if (idPosition === -1) {
@@ -79,7 +79,7 @@ function extractUserIdFromResponse(responseText) {
 
   return extracted;
 }
-extractUserIdFromResponse("User created successfully with ID:12345");
+// extractUserIdFromResponse("User created successfully with ID:12345");
 
 export function validateEmailFormat(email) {
   const monkeyLetter = email.includes("@");
@@ -99,7 +99,7 @@ export function validateEmailFormat(email) {
 }
 // validateEmailFormat("milen@gmail.com");
 
-function processTestDataCSV(csvString) {
+export function processTestDataCSV(csvString) {
   let array = csvString.split(",");
 
   console.log(`Original csvString: ${csvString}`);
@@ -107,9 +107,9 @@ function processTestDataCSV(csvString) {
 
   return array;
 }
-processTestDataCSV("test1,test2,test3,test4");
+// processTestDataCSV("test1,test2,test3,test4");
 
-function normalizeTestName(testName) {
+export function normalizeTestName(testName) {
   const nameTrim = testName.trim();
   const nameLower = nameTrim.toLowerCase();
   const replaced = nameLower.replace(/\s+/g, "_");
@@ -124,7 +124,7 @@ function normalizeTestName(testName) {
 
   return sliced;
 }
-normalizeTestName("Account verification");
+// normalizeTestName("Account verification");
 
 export function validateCompleteAPIResponse(
   statusCode,
@@ -148,7 +148,7 @@ export function validateCompleteAPIResponse(
 }
 // validateCompleteAPIResponse(200, 1100, true, 0);
 
-function checkTestEnvironmentAccess(userRole, isAuthenticated, environment) {
+export function checkTestEnvironmentAccess(userRole, isAuthenticated, environment) {
   const isRolleAllowed = userRole === "admin" || userRole === "tester";
   const isAuthOk = isAuthenticated === true;
   const isEnvAllowed = environment === "dev" || environment === "staging";
@@ -162,7 +162,7 @@ function checkTestEnvironmentAccess(userRole, isAuthenticated, environment) {
 
   return allowAccess;
 }
-checkTestEnvironmentAccess("admin", true, "dev");
+// checkTestEnvironmentAccess("admin", true, "dev");
 
 export function validateTestNotFailed(hasErrors, isCancelled, isTimeOut) {
   const noErrors = !hasErrors;
