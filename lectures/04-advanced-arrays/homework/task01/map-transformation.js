@@ -58,7 +58,7 @@ function ratePerformance(times) {
 // console.log(`Input times: ${testTimes}`);
 // console.log(`Performance labels: ${performanceLabels}`);
 
-// === Demonstation calls ===
+// === Demonstration calls ===
 
 // 1. buildVisualStatuses
 let testResults = ["PASS", "FAIL", "SKIP"];
