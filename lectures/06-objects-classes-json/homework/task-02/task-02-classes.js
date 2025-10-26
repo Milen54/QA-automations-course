@@ -1,4 +1,4 @@
-class TestUser {
+export class TestUser {
   constructor(username, email, password, role, active) {
     this.username = username;
     this.email = email;
@@ -27,7 +27,7 @@ class TestUser {
   }
 }
 
-class TestCase {
+export class TestCase {
   constructor(name, description) {
     this.name = name;
     this.description = description;

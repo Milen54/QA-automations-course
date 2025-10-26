@@ -53,16 +53,16 @@ let testCases = [
   },
 ];
 
-const getFailedTests = (cases) => {
+export const getFailedTests = (cases) => {
   return cases.filter((test) => test.status === "FAIL");
 };
 
-const getHighPriorityNames = (cases) => {
+export const getHighPriorityNames = (cases) => {
   const highPriorityTests = cases.filter((test) => test.priority === "high");
   return highPriorityTests.map((test) => test.name);
 };
 
-const getTotalDuration = (cases) =>
+export const getTotalDuration = (cases) =>
   cases.reduce((total, test) => total + test.duration, 0);
 
 console.log("Failed tests:", getFailedTests(testCases));

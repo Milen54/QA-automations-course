@@ -22,11 +22,11 @@ let caseList = [
 },
 ];
 
-function toJson(value) {
+export function toJson(value) {
     return JSON.stringify(value);
 }
 
-function fromJson(jsonString) {
+export function fromJson(jsonString) {
     return JSON.parse(jsonString);
 }
 
