@@ -1,14 +1,14 @@
-export function processAllTestUsers(testUsers) {
+function processAllTestUsers(testusers) {
 
-    for (let i = 0; i < testUsers.length; i++) {
-        const userEmail = testUsers[i];
+    for (let i = 0; i < testusers.length; i++) {
+        const userEmail = testusers[i];
         console.log(`Processing user ${[i + 1]}: ${userEmail}`);
     }
 
-    console.log(`Total users processed: ${testUsers.length}`);
-    return testUsers.length;
+    console.log(`Total users processed: ${testusers.length}`);
+    return testusers.length;
 }
-// const testUsers = ["milen@example.com", "roburt@example.com", "mario@example.com"];
+const testUsers = ["milen@example.com", "roburt@example.com", "mario@example.com"];
 // processAllTestUsers(testUsers);
 
 function validateAllEmails(emailArray) {
@@ -50,7 +50,7 @@ function calculateResponseTimes(responseTimesArray) {
 let responseTimes = [50, 100, 150, 300];
 calculateResponseTimes(responseTimes);
 
-export function simulateTestExecution(testCases) {
+function simulateTestExecution(testCases) {
     let executionResults = [];
 
     for (let i = 0; i < testCases.length; i++) {
@@ -79,10 +79,10 @@ export function simulateTestExecution(testCases) {
     console.log(`Failed tests: ${failedCount}`);
     return executionResults;
 }
-// const execResults = simulateTestExecution([
+const execResults = simulateTestExecution([
     "login_test", "logout_test", "registration_test", "password_reset", "profile_update"
-// ]);
-//console.log("Execution results:", execResults);
+]);
+console.log("Execution results:", execResults);
 
 function retryFailedTest(testName) {
     let attempts = 0;

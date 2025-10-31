@@ -15,7 +15,7 @@ export function buildTestUrl(environment, endpoint, userid) {
 }
 // buildTestUrl("Quality Assurance", "tests", "22");
 
-export function createTestMessage(testName, status, duration) {
+function createTestMessage(testName, status, duration) {
   const testMessage = `Test: ${testName} | Status: ${status} | Duration: ${duration}ms`;
   // console.log(testMessage);
   return testMessage;

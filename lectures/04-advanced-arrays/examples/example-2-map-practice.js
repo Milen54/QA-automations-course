@@ -43,14 +43,5 @@ let result = names.map(function(name, index, array){
     console.log("Element:", name);
     console.log("Index:", index);
     console.log("Array:", array);
-    return name.toUpperCase();
 });
 console.log(result);
-
-let namesEmail = ["Milen Denkov", "Roburt Syulev", "Mario Tsvetanov"];
-let genEmails = namesEmail.map(function(nameEm){
-    let formated = nameEm.toLocaleLowerCase().replace(" ", ".");
-    return `${formated}@gmail.com`;
-});
-console.log(`Inputed names: ${namesEmail}`);
-console.log(`Generated emails: ${genEmails}`);

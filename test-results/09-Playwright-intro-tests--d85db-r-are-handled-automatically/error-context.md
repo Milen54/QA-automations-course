@@ -1,0 +1,1134 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - paragraph [ref=e3]:
+    - link "PMP Practice" [ref=e4] [cursor=pointer]:
+      - /url: https://pmp.expandtesting.com/
+    - text: "| Free PMP Certification Mock Exam Test +900 Questions & Quizzes"
+    - link "Manual testing services" [ref=e5] [cursor=pointer]:
+      - img [ref=e7]
+      - text: Manual testing services
+  - banner [ref=e10]:
+    - navigation "Main navigation" [ref=e11]:
+      - link "SUT" [ref=e12] [cursor=pointer]:
+        - /url: /
+        - 'img "Best Website for Practice Automation Testing: Free UI and REST API Examples and Apps. Using Cypress, Playwright, Selenium, WebdriverIO and Postman." [ref=e13]'
+        - text: Practice
+      - generic [ref=e14]:
+        - list [ref=e15]:
+          - listitem [ref=e16]:
+            - button "Demos" [ref=e17] [cursor=pointer]
+          - listitem [ref=e18]:
+            - link "Tools" [ref=e19] [cursor=pointer]:
+              - /url: /#tools
+          - listitem [ref=e20]:
+            - link "Tips" [ref=e21] [cursor=pointer]:
+              - /url: /tips
+          - listitem [ref=e22]:
+            - link "Test Cases" [ref=e23] [cursor=pointer]:
+              - /url: /test-cases
+          - listitem [ref=e24]:
+            - link "API Testing" [ref=e25] [cursor=pointer]:
+              - /url: /notes/api/api-docs/
+          - listitem [ref=e26]:
+            - link "About" [ref=e27] [cursor=pointer]:
+              - /url: /about
+        - list
+        - link "Free ISTQB Mock Exams" [ref=e28] [cursor=pointer]:
+          - /url: https://istqb.expandtesting.com/
+  - main [ref=e29]:
+    - insertion [ref=e33]:
+      - iframe [ref=e35]:
+        - generic [active] [ref=f1e1]:
+          - generic [ref=f1e6]:
+            - link "Сушилня MIELE TWC640WP К" [ref=f1e8] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?nis=4&sa=l&ai=CtJQ4ytkEaZ65H5G2-cAPoOipuQaCt7mjggHdpojf5xTy78OKxgEQASCVlJmjAWDlyFqgAZu_lt0DyAEJqQIhZWKyptqjPqgDAcgDywSqBIgCT9DWS4ENfOcUBNoie8hcQAwr7KjoLmGX_U9t5xbTVkTsKn6Or8Y_JgqYsoQxdbE5IbF23o2T-debMIj0ZfHqewxDSIcYEMrqwFFYrjawv6SKuUeHmaHs8bUWIirPSEG7dR2E_x8u5bkjpMwE8HTadTlg7NiuO08A3bnRG4SG_lytDi7OVQStJfPJvd5SsArEoOj662xY3jiRhdBFxJM76koMJIpaEp4w-DQPkczHOooASA_xYE0XzTx6B5JTiqDtpfGJpdKL7Lo8abJFRxCEgUtoTkeXEVJC3ZC0tLRuXhK075Nj-h_i669y-DIqJVY4bcglccIkEaEvVZ50sVnwRhhCahVOdN2SwATD3_a42QSIBebJyJhO-gUGCCUQARgAoAYugAfNwOkiqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgHyqmxAqgH66WxAqgH6rGxAqgHmbWxAqgHvrexAqgH-MKxAqgH4tixAqgH4tixAqgH4tixAtgHAPoHFmNvbS50ZWNobm9wb2xpc05ldy5hcHDACAHSCDIIgOGAEBABGJ8BMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOlj6kuih5M6QA4AKAZALA5gLAcgLAYAMAaIMBUgBkAEB2gwRCgsQsISMrvOtgNy9ARICAQOqDQJCR8gNAeoNEwiK-_uh5M6QAxURWx4CHSB0KmfwDQKIDgnYEwLQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgo0OTcwMjEyMjIxuhcCOAGqGBcJAAAAgLudQEESCjQ5NzAyMTIyMjEYAbIYCRICrVEYLiIBANAYAegYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMInsbpoeTOkAMVEVseAh0gdCpnEAEYASABEgI8avD_BwE&num=1&cid=CAQSUgDCSxrRwq7g-83_1VF6S4caEgZXiwpyzYgqkzLOnFeK5dfLSICMXJiFNvMV80R3lQTCBxvGpV8WMFZZN6_M4WTkac9DpbnP3HFiyKfdUBJsqx4YAQ&sig=AOD64_1vtvCzW9WyqDmu2qJW5wMZAPTyCA&client=ca-pub-1056034821646296&nb=9&adurl=https://www.technopolis.bg/bg/Sushilni/Sushilnya-MIELE-TWC640WP/p/654092%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3DDN%2520-%2520aon_brochure_offers%2520-%2520DG%2520-%2520BG%26utm_id%3D20989486310%26gad_source%3D5%26gad_campaignid%3D20989486310%26gclid%3DEAIaIQobChMInsbpoeTOkAMVEVseAh0gdCpnEAEYASABEgI8avD_BwE
+              - generic [ref=f1e13]: Сушилня MIELE TWC640WP К
+            - link "Предложения от Брошурата Технополис" [ref=f1e15] [cursor=pointer]:
+              - /url: https://adclick.g.doubleclick.net/aclk?nis=4&sa=l&ai=CtJQ4ytkEaZ65H5G2-cAPoOipuQaCt7mjggHdpojf5xTy78OKxgEQASCVlJmjAWDlyFqgAZu_lt0DyAEJqQIhZWKyptqjPqgDAcgDywSqBIgCT9DWS4ENfOcUBNoie8hcQAwr7KjoLmGX_U9t5xbTVkTsKn6Or8Y_JgqYsoQxdbE5IbF23o2T-debMIj0ZfHqewxDSIcYEMrqwFFYrjawv6SKuUeHmaHs8bUWIirPSEG7dR2E_x8u5bkjpMwE8HTadTlg7NiuO08A3bnRG4SG_lytDi7OVQStJfPJvd5SsArEoOj662xY3jiRhdBFxJM76koMJIpaEp4w-DQPkczHOooASA_xYE0XzTx6B5JTiqDtpfGJpdKL7Lo8abJFRxCEgUtoTkeXEVJC3ZC0tLRuXhK075Nj-h_i669y-DIqJVY4bcglccIkEaEvVZ50sVnwRhhCahVOdN2SwATD3_a42QSIBebJyJhO-gUGCCUQARgAoAYugAfNwOkiqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfZtrECqAeaBqgH_56xAqgH35-xAqgHyqmxAqgH66WxAqgH6rGxAqgHmbWxAqgHvrexAqgH-MKxAqgH4tixAqgH4tixAqgH4tixAtgHAPoHFmNvbS50ZWNobm9wb2xpc05ldy5hcHDACAHSCDIIgOGAEBABGJ8BMgiqgoCAgICACDoOgMADgICEgICUruADqAdIvf3BOlj6kuih5M6QA4AKAZALA5gLAcgLAYAMAaIMBUgBkAEB2gwRCgsQsISMrvOtgNy9ARICAQOqDQJCR8gNAeoNEwiK-_uh5M6QAxURWx4CHSB0KmfwDQKIDgnYEwLQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgo0OTcwMjEyMjIxuhcCOAGqGBcJAAAAgLudQEESCjQ5NzAyMTIyMjEYAbIYCRICrVEYLiIBANAYAegYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMInsbpoeTOkAMVEVseAh0gdCpnEAEYASABEgI8avD_BwE&num=1&cid=CAQSUgDCSxrRwq7g-83_1VF6S4caEgZXiwpyzYgqkzLOnFeK5dfLSICMXJiFNvMV80R3lQTCBxvGpV8WMFZZN6_M4WTkac9DpbnP3HFiyKfdUBJsqx4YAQ&sig=AOD64_1vtvCzW9WyqDmu2qJW5wMZAPTyCA&client=ca-pub-1056034821646296&nb=19&adurl=https://www.technopolis.bg/bg/Sushilni/Sushilnya-MIELE-TWC640WP/p/654092%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3DDN%2520-%2520aon_brochure_offers%2520-%2520DG%2520-%2520BG%26utm_id%3D20989486310%26gad_source%3D5%26gad_campaignid%3D20989486310%26gclid%3DEAIaIQobChMInsbpoeTOkAMVEVseAh0gdCpnEAEYASABEgI8avD_BwE
+              - generic [ref=f1e19]:
+                - generic [ref=f1e21]:
+                  - text: Предложения от
+                  - text: Брошурата
+                - generic [ref=f1e23]: Технополис
+          - img [ref=f1e27] [cursor=pointer]
+          - button [ref=f1e30] [cursor=pointer]:
+            - img [ref=f1e31]
+          - iframe
+    - paragraph [ref=e37]:
+      - text: Do you enjoy this platform? ❤️
+      - link "Buy us a coffee" [ref=e38] [cursor=pointer]:
+        - /url: https://www.buymeacoffee.com/expandtesting
+    - generic [ref=e39]:
+      - insertion [ref=e41]:
+        - generic [ref=e43]:
+          - generic "These are topics related to the article that might interest you" [ref=e44]: Discover more
+          - link "Cloud Testing Platforms" [ref=e45] [cursor=pointer]:
+            - img [ref=e47]
+            - text: Cloud Testing Platforms
+          - link "Cypress Course" [ref=e49] [cursor=pointer]:
+            - img [ref=e51]
+            - text: Cypress Course
+          - link "testing" [ref=e53] [cursor=pointer]:
+            - img [ref=e55]
+            - text: testing
+          - link "Test Automation" [ref=e57] [cursor=pointer]:
+            - img [ref=e59]
+            - text: Test Automation
+          - link "Security Testing Tools" [ref=e61] [cursor=pointer]:
+            - img [ref=e63]
+            - text: Security Testing Tools
+          - link "automation testing" [ref=e65] [cursor=pointer]:
+            - img [ref=e67]
+            - text: automation testing
+          - link "Playwright Tutorial" [ref=e69] [cursor=pointer]:
+            - img [ref=e71]
+            - text: Playwright Tutorial
+          - link "Automation Testing" [ref=e73] [cursor=pointer]:
+            - img [ref=e75]
+            - text: Automation Testing
+          - link "Selenium Grid setup" [ref=e77] [cursor=pointer]:
+            - img [ref=e79]
+            - text: Selenium Grid setup
+          - link "application" [ref=e81] [cursor=pointer]:
+            - img [ref=e83]
+            - text: application
+      - generic [ref=e87]:
+        - alert [ref=e88]:
+          - heading "Automation Testing Practice WebSite for QA and Developers" [level=1] [ref=e89]
+          - heading "Free Test Automation Practice Website for Selenium, Playwright, Cypress, WebdriverIO, and Postman | Web UI and REST API Testing Example" [level=2] [ref=e90]
+          - generic [ref=e93]:
+            - link "Test Cases" [ref=e94] [cursor=pointer]:
+              - /url: /test-cases
+            - link "API Testing" [ref=e95] [cursor=pointer]:
+              - /url: /notes/api/api-docs/
+            - link "Xpath / Css" [ref=e96] [cursor=pointer]:
+              - /url: /xpath-css-tester
+            - link "API testing tools" [ref=e97] [cursor=pointer]:
+              - img [ref=e99]
+              - text: API testing tools
+          - generic [ref=e104]:
+            - textbox "Search an example..." [ref=e105]
+            - button "Search" [ref=e106] [cursor=pointer]
+        - generic [ref=e109]:
+          - generic [ref=e110] [cursor=pointer]: E-commerce BookStore
+          - generic [ref=e111] [cursor=pointer]: Notes React App
+          - generic [ref=e112] [cursor=pointer]: Notes Rest Api
+          - generic [ref=e113] [cursor=pointer]: Web Park App
+          - generic [ref=e114] [cursor=pointer]: Css/Xpath Tool
+          - generic [ref=e115] [cursor=pointer]: Mocha Runner
+        - generic [ref=e116]:
+          - generic [ref=e117]:
+            - heading "Sample applications for practice test automation" [level=2] [ref=e118]
+            - generic [ref=e119]:
+              - generic [ref=e120]:
+                - generic [ref=e121]:
+                  - generic [ref=e122]:
+                    - heading "Web inputs" [level=3] [ref=e123]:
+                      - link "Web inputs" [ref=e124] [cursor=pointer]:
+                        - /url: /inputs
+                    - paragraph [ref=e125]: This is an example of using input fields such as numbers, text, passwords, or dates on a website
+                  - link "Try it out" [ref=e128] [cursor=pointer]:
+                    - /url: /inputs
+                - link "Website development services" [ref=e129] [cursor=pointer]:
+                  - img [ref=e131]
+                  - text: Website development services
+              - generic [ref=e134]:
+                - generic [ref=e135]:
+                  - heading "Test Login Page" [level=3] [ref=e136]:
+                    - link "Test Login Page" [ref=e137] [cursor=pointer]:
+                      - /url: /login
+                  - paragraph [ref=e138]: Test Login Page for Automation Testing Practice, a common use case for website authentication. You can use Playwright to automate these login test scenarios
+                - link "Try it out" [ref=e141] [cursor=pointer]:
+                  - /url: /login
+              - generic [ref=e143]:
+                - generic [ref=e144]:
+                  - heading "Test Register Page" [level=3] [ref=e145]:
+                    - link "Test Register Page" [ref=e146] [cursor=pointer]:
+                      - /url: /register
+                  - insertion [ref=e148]:
+                    - iframe [ref=e150]:
+                      - generic [active] [ref=f2e1]:
+                        - generic [ref=f2e3]:
+                          - link:
+                            - /url: https://googleads.g.doubleclick.net/aclk?nis=4&sa=l&ai=CGdjiy9kEabm_E-LS-cAP-4fFwAvr25mTgwHu09yJ4RTb2R4QASCVlJmjAWDlyFqgAYOk5vsqyAECqQIhZWKyptqjPqgDAcgDyQSqBIgCT9D4ReLAeJUgvNrae8oAn3gS9TKW3n5taG5E_p1vOyzxUCYI6QqNKgLrePT6G7GtGozP5sIlluGKJ5A37kdZtKU4WwPQ7Vo8hEaSHWjzpe5NR1mMt8i1IObJvPHtr8zF1CrnqAvHxGfrxdre5goYP9rfojG8GnRV44_zZBNfXX8XnTTxGS3znB4czYnwRsGa0Tf0qD1d6d5bXS3ZkPnOr9wtY1Fg2xDSsKybVMJ83xC79J5e8p2sST4n4-RxW3pEo46ID43tY_QNkN9qkOjZn6vo3-ETqd0cY5D_YKByToQuBvKpD_7mOJTpudSWfVokZ6WYfvi814r0HtfDuThI8Jf-HJ1JThPLwASZo_qIyAWIBffW1K9WoAYCgAeD3LbbBagHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgHyqmxAqgH66WxAqgH6rGxAqgHmbWxAqgHvrexAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwEyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WI6nmaLkzpADsQkuZITM8ir2t4AKAZgLAcgLAdoMEQoLENDXwfzozZKE5QESAgEDqg0CQkfIDQHqDRMIzr-qouTOkAMVYmkeAh37QxG48A0CiA4J2BMK0BUByhYCCgD4FgGAFwGyFwIYAboXAjgBshgJEgLLThgCIgEA0BgBwhkCCAE&ae=1&ase=2&gclid=EAIaIQobChMI-dCaouTOkAMVYmkeAh37QxG4EAEYASAAEgKLKfD_BwE&num=1&cid=CAQSPwDCSxrR9SwtMaFN3vNaclVb_4eAyF2qNpKBKXGMzT1MXqqvwk3XwHdoINDxXfwFlfsYXUu07ogtuYf6_mVh4RgB&sig=AOD64_2auUn9p6kmEzv1Oa7FHdFZsYzZbw&client=ca-pub-1056034821646296&rf=2&nb=2&adurl=https://sopharmacy.bg/bg/product/000000000030021762%3Futm_source%3DGoogle_Ads%26utm_medium%3DDisplay%26utm_campaign%3DBG-PM-Panadol_(Child_Pain)-PR-Release_Starts_Here%26utm_id%3D23185402743%26utm_term%3DMIDDLE%26utm_content%3Dbanner%26gad_source%3D5%26gad_campaignid%3D23185402743%26gclid%3DEAIaIQobChMI-dCaouTOkAMVYmkeAh37QxG4EAEYASAAEgKLKfD_BwE
+                          - img [ref=f2e7] [cursor=pointer]
+                          - button [ref=f2e10] [cursor=pointer]:
+                            - img [ref=f2e11]
+                        - iframe
+                  - paragraph [ref=e151]: Test Register Page for Automation Testing Practice, a common use case for website authentication. You can use Playwright to automate these registration test scenarios
+                - link "Try it out" [ref=e154] [cursor=pointer]:
+                  - /url: /register
+              - generic [ref=e156]:
+                - generic [ref=e157]:
+                  - heading "Forgot Password Form" [level=3] [ref=e158]:
+                    - link "Forgot Password Form" [ref=e159] [cursor=pointer]:
+                      - /url: /forgot-password
+                  - insertion [ref=e161]:
+                    - iframe [ref=e163]:
+                      - generic [active] [ref=f3e1]:
+                        - generic [ref=f3e3]:
+                          - link:
+                            - /url: https://googleads.g.doubleclick.net/aclk?nis=4&sa=l&ai=C1qPly9kEac_6Fs_T-cAP68_smQbr25mTgwHu09yJ4RTb2R4QASCVlJmjAWDlyFqgAYOk5vsqyAECqQJuc2GIZdijPqgDAcgDyQSqBIgCT9ClsQVjcqt3UyMkB0NWIx7VVsjeo_8aYK8I5bvgghlOPJhkjmtaZNWdvnGHAVikfzChWetDFeJ3y5W_ADVLIPiQ7UsDXgz7fVi3A4b_6Ed7ktEgGEgV3CWcViruPKatHN9p4Ht7ZuRuXkwcTJSwDOk45rxAK9_yFYuMzIzoCwIqvA8IVYveu1fKwsolYEQ3R4DvGI0yjWo3EK9G6gGVotDFGmq45HfbL781tlT1eppCUwKP3QZHRUEdN2vhBImUFm92kkeFz_HjEoOtFUjTJp_2Sd3N1ShqIaKYysZDyhfcGTvW0Y3I7ihsVSUq0oSTiZV8HBbHIz5khp9TwoUPOZTIFw3LpuVJwASZo_qIyAWIBffW1K9WoAYCgAeD3LbbBagHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgHyqmxAqgH66WxAqgH6rGxAqgHmbWxAqgHvrexAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwEyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WLPfnKLkzpADsQkuZITM8ir2t4AKAZgLAcgLAdoMEQoLEPDhzpeYsMjbnAESAgEDqg0CQkfIDQHqDRMI_5WrouTOkAMVz2keAh3rJztj8A0CiA4J2BMK0BUByhYCCgD4FgGAFwGyFwIYAboXAjgBshgJEgLLThgCIgEA0BgBwhkCCAE&ae=1&ase=2&gclid=EAIaIQobChMIj4yeouTOkAMVz2keAh3rJztjEAEYASAAEgKk6fD_BwE&num=1&cid=CAQSPwDCSxrR0lMgoqOTkZYzoXlHnhRV4S8FI-z2bkETHSk-OV8QVzeSxW3upQ9Pb83waKcuVLKk2dKmQOaNQ1nI_BgB&sig=AOD64_3J0ztoDib0EVHb5E14gGBtZxi0tQ&client=ca-pub-1056034821646296&rf=2&nb=2&adurl=https://sopharmacy.bg/bg/product/000000000030021762%3Futm_source%3DGoogle_Ads%26utm_medium%3DDisplay%26utm_campaign%3DBG-PM-Panadol_(Child_Pain)-PR-Release_Starts_Here%26utm_id%3D23185402743%26utm_term%3DMIDDLE%26utm_content%3Dbanner%26gad_source%3D5%26gad_campaignid%3D23185402743%26gclid%3DEAIaIQobChMIj4yeouTOkAMVz2keAh3rJztjEAEYASAAEgKk6fD_BwE
+                          - img [ref=f3e7] [cursor=pointer]
+                          - button [ref=f3e10] [cursor=pointer]:
+                            - img [ref=f3e11]
+                        - iframe
+                  - paragraph [ref=e164]: Example can be used for practicing the Forgot Password scenario in automated tests. An email will be sent to indicate password reset instructions
+                - link "Try it out" [ref=e167] [cursor=pointer]:
+                  - /url: /forgot-password
+            - generic [ref=e168]:
+              - generic [ref=e170]:
+                - generic [ref=e171]:
+                  - 'heading "OTP: One Time Password" [level=3] [ref=e172]':
+                    - 'link "OTP: One Time Password" [ref=e173] [cursor=pointer]':
+                      - /url: /otp-login
+                  - insertion [ref=e175]:
+                    - iframe [ref=e177]:
+                      - generic [active] [ref=f4e1]:
+                        - generic [ref=f4e3]:
+                          - link:
+                            - /url: https://googleads.g.doubleclick.net/aclk?nis=4&sa=l&ai=Cqwtdy9kEae7gHJa8-cAP6aqk0QTr25mTgwHu09yJ4RTb2R4QASCVlJmjAWDlyFqgAYOk5vsqyAECqQJuc2GIZdijPqgDAcgDyQSqBIgCT9BTYZt91T25CIF5u50xXThqsXbQSpF1jl5EItswS6jSrFrTNK7XUXb7pMMbVC1i2soFgFIUWoZj-ohoRScOMFuKPYe6XEnWt4-wyVppZrPDD_ScPmMZL_1-gbw-72ZDyvm-0EuUocSODLRm6hLiNTDPoR84D4Ox7kRnLun_h-LhZoWlxMhb0ig7rhgTWKaAahBmATz6tvLYVfSI-eBwtMtkNfyUwpYi2QAUUrH0pdOLHIHqys7ViamM6V0PYcex1-Z4f9By3i75lPEqqXiHwIsVBhvhaeilhDCBPdPzQPSLUCIbPwj0lSKy3Z46qLhmJ8RC1M0_ER6COfn0aVIgEi1jTt8mpCM6wASZo_qIyAWIBffW1K9WoAYCgAeD3LbbBagHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgHyqmxAqgH66WxAqgH6rGxAqgHmbWxAqgHvrexAqgH-MKxAqgH-8KxAtgHAdIIMgiA4YAQEAEYnwEyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WJLIoqLkzpADsQkuZITM8ir2t4AKAZgLAcgLAdoMEAoKELDZ2r781s-eEhICAQOqDQJCR8gNAeoNEwi4qLqi5M6QAxUWXh4CHWkVKUrwDQKIDgnYEwrQFQHKFgIKAPgWAYAXAbIXAhgBuhcCOAGyGAkSAstOGAIiAQDQGAHCGQIIAQ&ae=1&ase=2&gclid=EAIaIQobChMIrvKjouTOkAMVFl4eAh1pFSlKEAEYASAAEgIgWfD_BwE&num=1&cid=CAQSPgDCSxrRHmIVdQaDgMfFNUnilx-9i3u1yNPCjZW8uDqqO0mk2Om1VYTabQaM8dCnzCf3kTdqNRDWSRQRXnWcGAE&sig=AOD64_3hTOZcbYmkU0FSGm4XZABbdpyhCg&client=ca-pub-1056034821646296&rf=2&nb=2&adurl=https://sopharmacy.bg/bg/product/000000000030021762%3Futm_source%3DGoogle_Ads%26utm_medium%3DDisplay%26utm_campaign%3DBG-PM-Panadol_(Child_Pain)-PR-Release_Starts_Here%26utm_id%3D23185402743%26utm_term%3DMIDDLE%26utm_content%3Dbanner%26gad_source%3D5%26gad_campaignid%3D23185402743%26gclid%3DEAIaIQobChMIrvKjouTOkAMVFl4eAh1pFSlKEAEYASAAEgIgWfD_BwE
+                          - img [ref=f4e7] [cursor=pointer]
+                          - button [ref=f4e10] [cursor=pointer]:
+                            - img [ref=f4e11]
+                        - iframe
+                  - paragraph [ref=e178]: The example of a One Time Password (OTP) illustrates the process of authentication using an OTP code
+                - link "Try it out" [ref=e181] [cursor=pointer]:
+                  - /url: /otp-login
+              - generic [ref=e183]:
+                - generic [ref=e184]:
+                  - heading "Dynamic Table" [level=3] [ref=e185]:
+                    - link "Dynamic Table" [ref=e186] [cursor=pointer]:
+                      - /url: /dynamic-table
+                  - insertion [ref=e188]:
+                    - iframe [ref=e190]:
+                      - generic [active] [ref=f5e1]:
+                        - generic [ref=f5e5]:
+                          - link [ref=f5e6] [cursor=pointer]:
+                            - /url: https://adclick.g.doubleclick.net/aclk?nis=4&sa=l&ai=C6HVJy9kEaYWVGoaX-cAP0-ukyAae1cCTgwH4hYLVoxXb2R4QASCVlJmjAWDlyFqgAevn5fsqyAEJqQIhZWKyptqjPqgDAcgDywSqBIgCT9CG-xDDP6ungyNeAYui5aYcHDtFkfPTQruWlNXbug2toZl3LJO51arqRe01i3mObST3AuznzrnHiTnrChKQ9d-tTjhr2n0jmrZGxEJ_S4tT-mPKMabmUYp1yJzX7gSL9vuoMR7uoPGGSwgcXR2PfEZ3pfZTGiVMrn1LaW7w5-8Lny0kVHEM4JmpW0DfzM6F0qghrZRrviOehIPD7HMiIs1r0wdUTEAMrUn_L7uMTvrOOy65JODTuNln_h6dZU-xA5ec7pB8cR6wpYHsjB8PAcyVj3_YJfwUJ3VLzTI-u3PtKL9uviVud1MQFsiC3GLCtB1pRclIT3tuIzIRPZ2fen0ZELEYQqN5wASr1YeOvQWIBe7GnKxWoAYugAfrn7bbBagH4tixAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgHyqmxAqgH66WxAqgH6rGxAqgHmbWxAqgHvrexAqgH-MKxAqgH-8KxAtgHANIIMgiA4YAQEAEYnwEyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WM_2n6LkzpADsQmPF7qng9rR64AKAZgLAcgLAYAMAaIMA5ABAdoMEQoLEPDa-fGcqaiI6AESAgEDqg0CQkfIDQHqDRMI-N63ouTOkAMVhkseAh3TNQlp8A0CiA4JuBPkA9gTCogUAtAVAZgWAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRIC_VsYLiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMIxaahouTOkAMVhkseAh3TNQlpEAEYASAAEgKbY_D_BwE&num=1&cid=CAQSPwDCSxrRfhlSO3qGr0d6ZCRKZRQV-zWHD2x1cjot-ecCk3o1KoP1eAvfoWatiYPy4MFdTX3C8KLAtjOO-pIImxgB&sig=AOD64_1GHnDlKsNONX_B3fqj0Uo2PxB4LQ&client=ca-pub-1056034821646296&rf=1&nb=9&adurl=https://benu.bg/otrivin-mentol-sprej-0-1-10ml%3Futm_source%3DGoogle_Ads%26utm_medium%3DDisplay%26utm_campaign%3DBG-RES-Otrivin-PR-Modern_living%26utm_id%3D23178191726%26utm_term%3DMIDDLE%26utm_content%3DRDA%26gad_source%3D5%26gad_campaignid%3D23178191726%26gclid%3DEAIaIQobChMIxaahouTOkAMVhkseAh3TNQlpEAEYASAAEgKbY_D_BwE
+                            - img [ref=f5e7]
+                          - generic [ref=f5e8]:
+                            - link "Синузити" [ref=f5e10] [cursor=pointer]:
+                              - /url: https://adclick.g.doubleclick.net/aclk?nis=4&sa=l&ai=C6HVJy9kEaYWVGoaX-cAP0-ukyAae1cCTgwH4hYLVoxXb2R4QASCVlJmjAWDlyFqgAevn5fsqyAEJqQIhZWKyptqjPqgDAcgDywSqBIgCT9CG-xDDP6ungyNeAYui5aYcHDtFkfPTQruWlNXbug2toZl3LJO51arqRe01i3mObST3AuznzrnHiTnrChKQ9d-tTjhr2n0jmrZGxEJ_S4tT-mPKMabmUYp1yJzX7gSL9vuoMR7uoPGGSwgcXR2PfEZ3pfZTGiVMrn1LaW7w5-8Lny0kVHEM4JmpW0DfzM6F0qghrZRrviOehIPD7HMiIs1r0wdUTEAMrUn_L7uMTvrOOy65JODTuNln_h6dZU-xA5ec7pB8cR6wpYHsjB8PAcyVj3_YJfwUJ3VLzTI-u3PtKL9uviVud1MQFsiC3GLCtB1pRclIT3tuIzIRPZ2fen0ZELEYQqN5wASr1YeOvQWIBe7GnKxWoAYugAfrn7bbBagH4tixAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgHyqmxAqgH66WxAqgH6rGxAqgHmbWxAqgHvrexAqgH-MKxAqgH-8KxAtgHANIIMgiA4YAQEAEYnwEyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WM_2n6LkzpADsQmPF7qng9rR64AKAZgLAcgLAYAMAaIMA5ABAdoMEQoLEPDa-fGcqaiI6AESAgEDqg0CQkfIDQHqDRMI-N63ouTOkAMVhkseAh3TNQlp8A0CiA4JuBPkA9gTCogUAtAVAZgWAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRIC_VsYLiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMIxaahouTOkAMVhkseAh3TNQlpEAEYASAAEgKbY_D_BwE&num=1&cid=CAQSPwDCSxrRfhlSO3qGr0d6ZCRKZRQV-zWHD2x1cjot-ecCk3o1KoP1eAvfoWatiYPy4MFdTX3C8KLAtjOO-pIImxgB&sig=AOD64_1GHnDlKsNONX_B3fqj0Uo2PxB4LQ&client=ca-pub-1056034821646296&rf=1&nb=0&adurl=https://benu.bg/otrivin-mentol-sprej-0-1-10ml%3Futm_source%3DGoogle_Ads%26utm_medium%3DDisplay%26utm_campaign%3DBG-RES-Otrivin-PR-Modern_living%26utm_id%3D23178191726%26utm_term%3DMIDDLE%26utm_content%3DRDA%26gad_source%3D5%26gad_campaignid%3D23178191726%26gclid%3DEAIaIQobChMIxaahouTOkAMVhkseAh3TNQlpEAEYASAAEgKbY_D_BwE
+                            - link [ref=f5e11] [cursor=pointer]:
+                              - /url: https://adclick.g.doubleclick.net/aclk?nis=4&sa=l&ai=C6HVJy9kEaYWVGoaX-cAP0-ukyAae1cCTgwH4hYLVoxXb2R4QASCVlJmjAWDlyFqgAevn5fsqyAEJqQIhZWKyptqjPqgDAcgDywSqBIgCT9CG-xDDP6ungyNeAYui5aYcHDtFkfPTQruWlNXbug2toZl3LJO51arqRe01i3mObST3AuznzrnHiTnrChKQ9d-tTjhr2n0jmrZGxEJ_S4tT-mPKMabmUYp1yJzX7gSL9vuoMR7uoPGGSwgcXR2PfEZ3pfZTGiVMrn1LaW7w5-8Lny0kVHEM4JmpW0DfzM6F0qghrZRrviOehIPD7HMiIs1r0wdUTEAMrUn_L7uMTvrOOy65JODTuNln_h6dZU-xA5ec7pB8cR6wpYHsjB8PAcyVj3_YJfwUJ3VLzTI-u3PtKL9uviVud1MQFsiC3GLCtB1pRclIT3tuIzIRPZ2fen0ZELEYQqN5wASr1YeOvQWIBe7GnKxWoAYugAfrn7bbBagH4tixAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgHyqmxAqgH66WxAqgH6rGxAqgHmbWxAqgHvrexAqgH-MKxAqgH-8KxAtgHANIIMgiA4YAQEAEYnwEyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WM_2n6LkzpADsQmPF7qng9rR64AKAZgLAcgLAYAMAaIMA5ABAdoMEQoLEPDa-fGcqaiI6AESAgEDqg0CQkfIDQHqDRMI-N63ouTOkAMVhkseAh3TNQlp8A0CiA4JuBPkA9gTCogUAtAVAZgWAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRIC_VsYLiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMIxaahouTOkAMVhkseAh3TNQlpEAEYASAAEgKbY_D_BwE&num=1&cid=CAQSPwDCSxrRfhlSO3qGr0d6ZCRKZRQV-zWHD2x1cjot-ecCk3o1KoP1eAvfoWatiYPy4MFdTX3C8KLAtjOO-pIImxgB&sig=AOD64_1GHnDlKsNONX_B3fqj0Uo2PxB4LQ&client=ca-pub-1056034821646296&rf=1&nb=19&adurl=https://benu.bg/otrivin-mentol-sprej-0-1-10ml%3Futm_source%3DGoogle_Ads%26utm_medium%3DDisplay%26utm_campaign%3DBG-RES-Otrivin-PR-Modern_living%26utm_id%3D23178191726%26utm_term%3DMIDDLE%26utm_content%3DRDA%26gad_source%3D5%26gad_campaignid%3D23178191726%26gclid%3DEAIaIQobChMIxaahouTOkAMVhkseAh3TNQlpEAEYASAAEgKbY_D_BwE
+                              - img [ref=f5e12]
+                            - link "Отривин Ментол действа до 12 часа!" [ref=f5e14] [cursor=pointer]:
+                              - /url: https://adclick.g.doubleclick.net/aclk?nis=4&sa=l&ai=C6HVJy9kEaYWVGoaX-cAP0-ukyAae1cCTgwH4hYLVoxXb2R4QASCVlJmjAWDlyFqgAevn5fsqyAEJqQIhZWKyptqjPqgDAcgDywSqBIgCT9CG-xDDP6ungyNeAYui5aYcHDtFkfPTQruWlNXbug2toZl3LJO51arqRe01i3mObST3AuznzrnHiTnrChKQ9d-tTjhr2n0jmrZGxEJ_S4tT-mPKMabmUYp1yJzX7gSL9vuoMR7uoPGGSwgcXR2PfEZ3pfZTGiVMrn1LaW7w5-8Lny0kVHEM4JmpW0DfzM6F0qghrZRrviOehIPD7HMiIs1r0wdUTEAMrUn_L7uMTvrOOy65JODTuNln_h6dZU-xA5ec7pB8cR6wpYHsjB8PAcyVj3_YJfwUJ3VLzTI-u3PtKL9uviVud1MQFsiC3GLCtB1pRclIT3tuIzIRPZ2fen0ZELEYQqN5wASr1YeOvQWIBe7GnKxWoAYugAfrn7bbBagH4tixAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgHyqmxAqgH66WxAqgH6rGxAqgHmbWxAqgHvrexAqgH-MKxAqgH-8KxAtgHANIIMgiA4YAQEAEYnwEyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WM_2n6LkzpADsQmPF7qng9rR64AKAZgLAcgLAYAMAaIMA5ABAdoMEQoLEPDa-fGcqaiI6AESAgEDqg0CQkfIDQHqDRMI-N63ouTOkAMVhkseAh3TNQlp8A0CiA4JuBPkA9gTCogUAtAVAZgWAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRIC_VsYLiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMIxaahouTOkAMVhkseAh3TNQlpEAEYASAAEgKbY_D_BwE&num=1&cid=CAQSPwDCSxrRfhlSO3qGr0d6ZCRKZRQV-zWHD2x1cjot-ecCk3o1KoP1eAvfoWatiYPy4MFdTX3C8KLAtjOO-pIImxgB&sig=AOD64_1GHnDlKsNONX_B3fqj0Uo2PxB4LQ&client=ca-pub-1056034821646296&rf=1&nb=7&adurl=https://benu.bg/otrivin-mentol-sprej-0-1-10ml%3Futm_source%3DGoogle_Ads%26utm_medium%3DDisplay%26utm_campaign%3DBG-RES-Otrivin-PR-Modern_living%26utm_id%3D23178191726%26utm_term%3DMIDDLE%26utm_content%3DRDA%26gad_source%3D5%26gad_campaignid%3D23178191726%26gclid%3DEAIaIQobChMIxaahouTOkAMVhkseAh3TNQlpEAEYASAAEgKbY_D_BwE
+                              - text: Отривин
+                              - text: Ментол
+                              - text: действа до
+                              - text: 12 часа!
+                            - link [ref=f5e15] [cursor=pointer]:
+                              - /url: https://adclick.g.doubleclick.net/aclk?nis=4&sa=l&ai=C6HVJy9kEaYWVGoaX-cAP0-ukyAae1cCTgwH4hYLVoxXb2R4QASCVlJmjAWDlyFqgAevn5fsqyAEJqQIhZWKyptqjPqgDAcgDywSqBIgCT9CG-xDDP6ungyNeAYui5aYcHDtFkfPTQruWlNXbug2toZl3LJO51arqRe01i3mObST3AuznzrnHiTnrChKQ9d-tTjhr2n0jmrZGxEJ_S4tT-mPKMabmUYp1yJzX7gSL9vuoMR7uoPGGSwgcXR2PfEZ3pfZTGiVMrn1LaW7w5-8Lny0kVHEM4JmpW0DfzM6F0qghrZRrviOehIPD7HMiIs1r0wdUTEAMrUn_L7uMTvrOOy65JODTuNln_h6dZU-xA5ec7pB8cR6wpYHsjB8PAcyVj3_YJfwUJ3VLzTI-u3PtKL9uviVud1MQFsiC3GLCtB1pRclIT3tuIzIRPZ2fen0ZELEYQqN5wASr1YeOvQWIBe7GnKxWoAYugAfrn7bbBagH4tixAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgHyqmxAqgH66WxAqgH6rGxAqgHmbWxAqgHvrexAqgH-MKxAqgH-8KxAtgHANIIMgiA4YAQEAEYnwEyCKqCgICAgIAIOg6AwAOAgISAgJSu4AOoB0i9_cE6WM_2n6LkzpADsQmPF7qng9rR64AKAZgLAcgLAYAMAaIMA5ABAdoMEQoLEPDa-fGcqaiI6AESAgEDqg0CQkfIDQHqDRMI-N63ouTOkAMVhkseAh3TNQlp8A0CiA4JuBPkA9gTCogUAtAVAZgWAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRIC_VsYLiIBANAYAcIZAggB&ae=1&ase=2&gclid=EAIaIQobChMIxaahouTOkAMVhkseAh3TNQlpEAEYASAAEgKbY_D_BwE&num=1&cid=CAQSPwDCSxrRfhlSO3qGr0d6ZCRKZRQV-zWHD2x1cjot-ecCk3o1KoP1eAvfoWatiYPy4MFdTX3C8KLAtjOO-pIImxgB&sig=AOD64_1GHnDlKsNONX_B3fqj0Uo2PxB4LQ&client=ca-pub-1056034821646296&rf=1&nb=8&adurl=https://benu.bg/otrivin-mentol-sprej-0-1-10ml%3Futm_source%3DGoogle_Ads%26utm_medium%3DDisplay%26utm_campaign%3DBG-RES-Otrivin-PR-Modern_living%26utm_id%3D23178191726%26utm_term%3DMIDDLE%26utm_content%3DRDA%26gad_source%3D5%26gad_campaignid%3D23178191726%26gclid%3DEAIaIQobChMIxaahouTOkAMVhkseAh3TNQlpEAEYASAAEgKbY_D_BwE
+                              - img [ref=f5e16]
+                        - img [ref=f5e21] [cursor=pointer]
+                        - button [ref=f5e24] [cursor=pointer]:
+                          - img [ref=f5e25]
+                        - iframe
+                  - paragraph [ref=e191]: Generating dynamic table content on every page load can be used as a practice exercise to verify cell values in a dynamic table
+                - link "Try it out" [ref=e194] [cursor=pointer]:
+                  - /url: /dynamic-table
+              - generic [ref=e196]:
+                - generic [ref=e197]:
+                  - heading "Dynamic Pagination Table" [level=3] [ref=e198]:
+                    - link "Dynamic Pagination Table" [ref=e199] [cursor=pointer]:
+                      - /url: /dynamic-pagination-table
+                  - paragraph [ref=e200]: A dynamic paginated table for automation testing, allowing row selection (3, 5, or more) with sorting and filtering via DataTables
+                - link "Try it out" [ref=e203] [cursor=pointer]:
+                  - /url: /dynamic-pagination-table
+              - generic [ref=e205]:
+                - generic [ref=e206]:
+                  - heading "Locators Page" [level=3] [ref=e207]:
+                    - link "Locators Page" [ref=e208] [cursor=pointer]:
+                      - /url: /locators
+                  - paragraph [ref=e209]: This page provides examples of different locators that can be used in automated tests, such as CSS selectors, XPath, Playwright locators and more
+                - link "Try it out" [ref=e212] [cursor=pointer]:
+                  - /url: /locators
+            - generic [ref=e213]:
+              - generic [ref=e215]:
+                - generic [ref=e216]:
+                  - heading "My Browser Information" [level=3] [ref=e217]:
+                    - link "My Browser Information" [ref=e218] [cursor=pointer]:
+                      - /url: /my-browser
+                  - paragraph [ref=e219]:
+                    - text: This page, upon clicking the 'Browser Type' button, detects the name of your browser and displays it for you
+                    - link "QA best practices" [ref=e220] [cursor=pointer]:
+                      - img [ref=e222]
+                      - text: QA best practices
+                - link "Try it out" [ref=e226] [cursor=pointer]:
+                  - /url: /my-browser
+              - generic [ref=e228]:
+                - generic [ref=e229]:
+                  - heading "Radio Buttons" [level=3] [ref=e230]:
+                    - link "Radio Buttons" [ref=e231] [cursor=pointer]:
+                      - /url: /radio-buttons
+                  - paragraph [ref=e232]: Radio Buttons example can be used for practicing automated tests
+                - link "Try it out" [ref=e235] [cursor=pointer]:
+                  - /url: /radio-buttons
+              - generic [ref=e237]:
+                - generic [ref=e238]:
+                  - heading "Drag and Drop" [level=3] [ref=e239]:
+                    - link "Drag and Drop" [ref=e240] [cursor=pointer]:
+                      - /url: /drag-and-drop
+                  - paragraph [ref=e241]: Example (Drag and Drop) can be used for practicing Drag and Drop challenges in automated tests
+                - link "Try it out" [ref=e244] [cursor=pointer]:
+                  - /url: /drag-and-drop
+              - generic [ref=e246]:
+                - generic [ref=e247]:
+                  - heading "Drag and Drop Circles" [level=3] [ref=e248]:
+                    - link "Drag and Drop Circles" [ref=e249] [cursor=pointer]:
+                      - /url: /drag-and-drop-circles
+                  - paragraph [ref=e250]: Example (Drag and Drop Circles) can be used for practicing Drag and Drop challenges in automated tests
+                - link "Try it out" [ref=e253] [cursor=pointer]:
+                  - /url: /drag-and-drop-circles
+            - generic [ref=e254]:
+              - generic [ref=e256]:
+                - generic [ref=e257]:
+                  - heading "Form Validation" [level=3] [ref=e258]:
+                    - link "Form Validation" [ref=e259] [cursor=pointer]:
+                      - /url: /form-validation
+                  - paragraph [ref=e260]: Example of Form Validation Using Bootstrap and JavaScript Technologies
+                - link "Try it out" [ref=e263] [cursor=pointer]:
+                  - /url: /form-validation
+              - generic [ref=e265]:
+                - generic [ref=e266]:
+                  - heading "File Upload" [level=3] [ref=e267]:
+                    - link "File Upload" [ref=e268] [cursor=pointer]:
+                      - /url: /upload
+                  - paragraph [ref=e269]: Example can be used for practicing upload files scenario in automated tests
+                - link "Try it out" [ref=e272] [cursor=pointer]:
+                  - /url: /upload
+              - generic [ref=e274]:
+                - generic [ref=e275]:
+                  - heading "File Downloader" [level=3] [ref=e276]:
+                    - link "File Downloader" [ref=e277] [cursor=pointer]:
+                      - /url: /download
+                  - paragraph [ref=e278]: Example can be used for practicing download files scenario in automated tests
+                - link "Try it out" [ref=e281] [cursor=pointer]:
+                  - /url: /download
+              - generic [ref=e283]:
+                - generic [ref=e284]:
+                  - heading "Add/Remove Elements" [level=3] [ref=e285]:
+                    - link "Add/Remove Elements" [ref=e286] [cursor=pointer]:
+                      - /url: /add-remove-elements
+                  - paragraph [ref=e287]: Dynamically adding and removing web elements
+                - link "Try it out" [ref=e290] [cursor=pointer]:
+                  - /url: /add-remove-elements
+            - generic [ref=e291]:
+              - generic [ref=e293]:
+                - generic [ref=e294]:
+                  - heading "Secure File Download" [level=3] [ref=e295]:
+                    - link "Secure File Download" [ref=e296] [cursor=pointer]:
+                      - /url: /download-secure
+                  - paragraph [ref=e297]:
+                    - text: This example shows a secure download page that can only be accessed with authentication and can be used for practicing automated tests
+                    - link "Automation testing tools" [ref=e298] [cursor=pointer]:
+                      - img [ref=e300]
+                      - text: Automation testing tools
+                - link "Try it out" [ref=e304] [cursor=pointer]:
+                  - /url: /download-secure
+              - generic [ref=e306]:
+                - generic [ref=e307]:
+                  - heading "Notification Message" [level=3] [ref=e308]:
+                    - link "Notification Message" [ref=e309] [cursor=pointer]:
+                      - /url: /notification-message
+                  - paragraph [ref=e310]: This example shows a dynamic notification message that can be used for practicing automated testing
+                - link "Try it out" [ref=e313] [cursor=pointer]:
+                  - /url: /notification-message
+              - generic [ref=e315]:
+                - generic [ref=e316]:
+                  - heading "Autocomplete" [level=3] [ref=e317]:
+                    - link "Autocomplete" [ref=e318] [cursor=pointer]:
+                      - /url: /autocomplete
+                  - paragraph [ref=e319]: Example can be used for practicing Autocomplete challenges in automated tests
+                - link "Try it out" [ref=e322] [cursor=pointer]:
+                  - /url: /autocomplete
+              - generic [ref=e324]:
+                - generic [ref=e325]:
+                  - heading "Cypress spies, stubs and clocks" [level=3] [ref=e326]:
+                    - link "Cypress spies, stubs and clocks" [ref=e327] [cursor=pointer]:
+                      - /url: /spies-stubs-clocks
+                  - paragraph [ref=e328]: Examples of using (cy.spy, cy.stub, cy.clock) stubs, spies, and controlling clock time are useful for practicing automated tests
+                - link "Try it out" [ref=e331] [cursor=pointer]:
+                  - /url: /spies-stubs-clocks
+            - generic [ref=e332]:
+              - generic [ref=e334]:
+                - generic [ref=e335]:
+                  - heading "Challenging DOM" [level=3] [ref=e336]:
+                    - link "Challenging DOM" [ref=e337] [cursor=pointer]:
+                      - /url: /challenging-dom
+                  - paragraph [ref=e338]: Challenging DOM example to illustrate the challenges of finding good locators for automated tests
+                - link "Try it out" [ref=e341] [cursor=pointer]:
+                  - /url: /challenging-dom
+              - generic [ref=e343]:
+                - generic [ref=e344]:
+                  - heading "Large & Deep DOM" [level=3] [ref=e345]:
+                    - link "Large & Deep DOM" [ref=e346] [cursor=pointer]:
+                      - /url: /large
+                  - paragraph [ref=e347]: Large & Deep DOM example with nested levels deep to illustrate the challenges of finding good locators for automated tests
+                - link "Try it out" [ref=e350] [cursor=pointer]:
+                  - /url: /large
+              - generic [ref=e352]:
+                - generic [ref=e353]:
+                  - heading "Shadow DOM" [level=3] [ref=e354]:
+                    - link "Shadow DOM" [ref=e355] [cursor=pointer]:
+                      - /url: /shadowdom
+                  - paragraph [ref=e356]: Example can be used for practicing Shadow DOM challenges in automated tests
+                - link "Try it out" [ref=e359] [cursor=pointer]:
+                  - /url: /shadowdom
+              - generic [ref=e361]:
+                - generic [ref=e362]:
+                  - heading "Typos" [level=3] [ref=e363]:
+                    - link "Typos" [ref=e364] [cursor=pointer]:
+                      - /url: /typos
+                  - paragraph [ref=e365]: This example demonstrates a typo being introduced. It does it randomly on each page load
+                - link "Try it out" [ref=e368] [cursor=pointer]:
+                  - /url: /typos
+            - generic [ref=e369]:
+              - generic [ref=e371]:
+                - generic [ref=e372]:
+                  - heading "MyIP Address" [level=3] [ref=e373]:
+                    - link "MyIP Address" [ref=e374] [cursor=pointer]:
+                      - /url: /my-ip
+                  - paragraph [ref=e375]:
+                    - text: The web page show you your public IP address
+                    - link "Selenium WebDriver training" [ref=e376] [cursor=pointer]:
+                      - img [ref=e378]
+                      - text: Selenium WebDriver training
+                - link "Try it out" [ref=e382] [cursor=pointer]:
+                  - /url: /my-ip
+              - generic [ref=e384]:
+                - generic [ref=e385]:
+                  - heading "Broken Images" [level=3] [ref=e386]:
+                    - link "Broken Images" [ref=e387] [cursor=pointer]:
+                      - /url: /broken-images
+                  - paragraph [ref=e388]: Example can be used for practicing Broken Images challenges in automated tests
+                - link "Try it out" [ref=e391] [cursor=pointer]:
+                  - /url: /broken-images
+              - generic [ref=e393]:
+                - generic [ref=e394]:
+                  - heading "Infinite Scroll" [level=3] [ref=e395]:
+                    - link "Infinite Scroll" [ref=e396] [cursor=pointer]:
+                      - /url: /infinite-scroll
+                  - paragraph [ref=e397]: Example can be used for practicing Infinite Scroll challenges in automated tests
+                - link "Try it out" [ref=e400] [cursor=pointer]:
+                  - /url: /infinite-scroll
+              - generic [ref=e402]:
+                - generic [ref=e403]:
+                  - heading "Slow Resources" [level=3] [ref=e404]:
+                    - link "Slow Resources" [ref=e405] [cursor=pointer]:
+                      - /url: /slow
+                  - paragraph [ref=e406]: This example demonstrates a slow web resource and can be utilized for practicing automation testing challenges
+                - link "Try it out" [ref=e409] [cursor=pointer]:
+                  - /url: /slow
+            - generic [ref=e410]:
+              - generic [ref=e412]:
+                - generic [ref=e413]:
+                  - heading "JavaScript Dialogs" [level=3] [ref=e414]:
+                    - link "JavaScript Dialogs" [ref=e415] [cursor=pointer]:
+                      - /url: /js-dialogs
+                  - paragraph [ref=e416]: This page presents examples of various JavaScript Dialogs which can pose challenges for automation efforts.
+                - link "Try it out" [ref=e419] [cursor=pointer]:
+                  - /url: /js-dialogs
+              - generic [ref=e421]:
+                - generic [ref=e422]:
+                  - heading "JavaScript Error" [level=3] [ref=e423]:
+                    - link "JavaScript Error" [ref=e424] [cursor=pointer]:
+                      - /url: /javascript-error
+                  - paragraph [ref=e425]: This page showcases a JavaScript error in the onload event, serving as an example for practicing the detection of JavaScript errors through automated testing
+                - link "Try it out" [ref=e428] [cursor=pointer]:
+                  - /url: /javascript-error
+              - generic [ref=e430]:
+                - generic [ref=e431]:
+                  - heading "JQuery UI" [level=3] [ref=e432]:
+                    - link "JQuery UI" [ref=e433] [cursor=pointer]:
+                      - /url: /jqueryui
+                  - paragraph [ref=e434]: Examples based on JQuery UI can be used for practicing JQuery Widgets challenges in automated tests
+                - link "Try it out" [ref=e437] [cursor=pointer]:
+                  - /url: /jqueryui
+              - generic [ref=e439]:
+                - generic [ref=e440]:
+                  - heading "JQuery UI Menus" [level=3] [ref=e441]:
+                    - link "JQuery UI Menus" [ref=e442] [cursor=pointer]:
+                      - /url: /jqueryui/menu
+                  - paragraph [ref=e443]: JQueryUI UI Menu Widgets can be used for practicing challenges related to JQuery Widgets in automated tests
+                - link "Try it out" [ref=e446] [cursor=pointer]:
+                  - /url: /jqueryui/menu
+            - generic [ref=e447]:
+              - generic [ref=e449]:
+                - generic [ref=e450]:
+                  - heading "A/B Testing" [level=3] [ref=e451]:
+                    - link "A/B Testing" [ref=e452] [cursor=pointer]:
+                      - /url: /abtest
+                  - paragraph [ref=e453]:
+                    - text: A webpage designed to demonstrate the challenges of automating A/B Testing
+                    - link "API testing tools" [ref=e454] [cursor=pointer]:
+                      - img [ref=e456]
+                      - text: API testing tools
+                - link "Try it out" [ref=e460] [cursor=pointer]:
+                  - /url: /abtest
+              - generic [ref=e462]:
+                - generic [ref=e463]:
+                  - heading "Check Boxes" [level=3] [ref=e464]:
+                    - link "Check Boxes" [ref=e465] [cursor=pointer]:
+                      - /url: /checkboxes
+                  - paragraph [ref=e466]: Enabling and disabling checkboxes
+                - link "Try it out" [ref=e469] [cursor=pointer]:
+                  - /url: /checkboxes
+              - generic [ref=e471]:
+                - generic [ref=e472]:
+                  - heading "Context Menu" [level=3] [ref=e473]:
+                    - link "Context Menu" [ref=e474] [cursor=pointer]:
+                      - /url: /context-menu
+                  - paragraph [ref=e475]: Handling context menus and right-clicks on specific areas
+                - link "Try it out" [ref=e478] [cursor=pointer]:
+                  - /url: /context-menu
+              - generic [ref=e480]:
+                - generic [ref=e481]:
+                  - heading "Key Presses" [level=3] [ref=e482]:
+                    - link "Key Presses" [ref=e483] [cursor=pointer]:
+                      - /url: /key-presses
+                  - paragraph [ref=e484]: Example can be used for practicing automated tests of key presses
+                - link "Try it out" [ref=e487] [cursor=pointer]:
+                  - /url: /key-presses
+            - generic [ref=e488]:
+              - generic [ref=e490]:
+                - generic [ref=e491]:
+                  - heading "Disappearing Elements" [level=3] [ref=e492]:
+                    - link "Disappearing Elements" [ref=e493] [cursor=pointer]:
+                      - /url: /disappearing-elements
+                  - paragraph [ref=e494]: This example illustrates how elements on a webpage change by appearing and disappearing on each page reload
+                - link "Try it out" [ref=e497] [cursor=pointer]:
+                  - /url: /disappearing-elements
+              - generic [ref=e499]:
+                - generic [ref=e500]:
+                  - heading "Context Menu" [level=3] [ref=e501]:
+                    - link "Context Menu" [ref=e502] [cursor=pointer]:
+                      - /url: /context-menu
+                  - paragraph [ref=e503]: This example illustrates how context menu items, which are custom options, appear in the right-click menu
+                - link "Try it out" [ref=e506] [cursor=pointer]:
+                  - /url: /context-menu
+              - generic [ref=e508]:
+                - generic [ref=e509]:
+                  - heading "Dropdown List" [level=3] [ref=e510]:
+                    - link "Dropdown List" [ref=e511] [cursor=pointer]:
+                      - /url: /dropdown
+                  - paragraph [ref=e512]: Example can be used for practicing automated tests of a dropdown menu list
+                - link "Try it out" [ref=e515] [cursor=pointer]:
+                  - /url: /dropdown
+              - generic [ref=e517]:
+                - generic [ref=e518]:
+                  - heading "Redirect Link" [level=3] [ref=e519]:
+                    - link "Redirect Link" [ref=e520] [cursor=pointer]:
+                      - /url: /redirector
+                  - paragraph [ref=e521]: Example can be used for practicing redirect challenges in automated tests
+                - link "Try it out" [ref=e524] [cursor=pointer]:
+                  - /url: /redirector
+            - generic [ref=e525]:
+              - generic [ref=e527]:
+                - generic [ref=e528]:
+                  - heading "Geolocation" [level=3] [ref=e529]:
+                    - link "Geolocation" [ref=e530] [cursor=pointer]:
+                      - /url: /geolocation
+                  - paragraph [ref=e531]:
+                    - text: Example can be used for practicing geolocation challenges in automated tests
+                    - link "Manual testing services" [ref=e532] [cursor=pointer]:
+                      - img [ref=e534]
+                      - text: Manual testing services
+                - link "Try it out" [ref=e538] [cursor=pointer]:
+                  - /url: /geolocation
+              - generic [ref=e540]:
+                - generic [ref=e541]:
+                  - heading "Horizontal Slider" [level=3] [ref=e542]:
+                    - link "Horizontal Slider" [ref=e543] [cursor=pointer]:
+                      - /url: /horizontal-slider
+                  - paragraph [ref=e544]: Example can be used for practicing automated tests for horizontal slider
+                - link "Try it out" [ref=e547] [cursor=pointer]:
+                  - /url: /horizontal-slider
+              - generic [ref=e549]:
+                - generic [ref=e550]:
+                  - heading "Hovers" [level=3] [ref=e551]:
+                    - link "Hovers" [ref=e552] [cursor=pointer]:
+                      - /url: /hovers
+                  - paragraph [ref=e553]: Example can be used for practicing hovers challenges in automated tests
+                - link "Try it out" [ref=e556] [cursor=pointer]:
+                  - /url: /hovers
+              - generic [ref=e558]:
+                - generic [ref=e559]:
+                  - heading "Floating Menu" [level=3] [ref=e560]:
+                    - link "Floating Menu" [ref=e561] [cursor=pointer]:
+                      - /url: /floating-menu
+                  - paragraph [ref=e562]: Examples can be utilized for practicing Floating Menu challenges in automated tests
+                - link "Try it out" [ref=e565] [cursor=pointer]:
+                  - /url: /floating-menu
+            - generic [ref=e566]:
+              - generic [ref=e568]:
+                - generic [ref=e569]:
+                  - heading "IFrame" [level=3] [ref=e570]:
+                    - link "IFrame" [ref=e571] [cursor=pointer]:
+                      - /url: /iframe
+                  - paragraph [ref=e572]: Examples can be utilized for practicing IFrames (Internal & External) challenges in automated tests
+                - link "Try it out" [ref=e575] [cursor=pointer]:
+                  - /url: /iframe
+              - generic [ref=e577]:
+                - generic [ref=e578]:
+                  - heading "Multiple Windows" [level=3] [ref=e579]:
+                    - link "Multiple Windows" [ref=e580] [cursor=pointer]:
+                      - /url: /windows
+                  - paragraph [ref=e581]: Example can be used for opening Multiple Windows
+                - link "Try it out" [ref=e584] [cursor=pointer]:
+                  - /url: /windows
+              - generic [ref=e586]:
+                - generic [ref=e587]:
+                  - heading "Sortable Data Tables" [level=3] [ref=e588]:
+                    - link "Sortable Data Tables" [ref=e589] [cursor=pointer]:
+                      - /url: /tables
+                  - paragraph [ref=e590]: Examples of sortable data tables can be used to practice challenges with tables in automated tests
+                - link "Try it out" [ref=e593] [cursor=pointer]:
+                  - /url: /tables
+              - generic [ref=e595]:
+                - generic [ref=e596]:
+                  - heading "Tooltips" [level=3] [ref=e597]:
+                    - link "Tooltips" [ref=e598] [cursor=pointer]:
+                      - /url: /tooltips
+                  - paragraph [ref=e599]: A tooltip is a small descriptive message that appears near a view when users long press the view or hover their mouse over it
+                - link "Try it out" [ref=e602] [cursor=pointer]:
+                  - /url: /tooltips
+            - generic [ref=e603]:
+              - generic [ref=e605]:
+                - generic [ref=e606]:
+                  - heading "Dynamic Content" [level=3] [ref=e607]:
+                    - link "Dynamic Content" [ref=e608] [cursor=pointer]:
+                      - /url: /dynamic-content
+                  - paragraph [ref=e609]:
+                    - text: This example demonstrates the ever-evolving nature of content by loading new text and images on each page refresh
+                    - link "Website development services" [ref=e610] [cursor=pointer]:
+                      - img [ref=e612]
+                      - text: Website development services
+                - link "Try it out" [ref=e616] [cursor=pointer]:
+                  - /url: /dynamic-content
+              - generic [ref=e618]:
+                - generic [ref=e619]:
+                  - heading "Dynamic Controls" [level=3] [ref=e620]:
+                    - link "Dynamic Controls" [ref=e621] [cursor=pointer]:
+                      - /url: /dynamic-controls
+                  - paragraph [ref=e622]: This example demonstrates when elements (e.g., checkbox, input field, etc.) are changed asynchronously
+                - link "Try it out" [ref=e625] [cursor=pointer]:
+                  - /url: /dynamic-controls
+              - generic [ref=e627]:
+                - generic [ref=e628]:
+                  - heading "Dynamic Loading" [level=3] [ref=e629]:
+                    - link "Dynamic Loading" [ref=e630] [cursor=pointer]:
+                      - /url: /dynamic-loading
+                  - paragraph [ref=e631]: The page automatically gets updated (e.g. hiding elements, showing elements, updating copy, etc) through the use of JavaScript
+                - link "Try it out" [ref=e634] [cursor=pointer]:
+                  - /url: /dynamic-loading
+              - generic [ref=e636]:
+                - generic [ref=e637]:
+                  - heading "Shifting Content" [level=3] [ref=e638]:
+                    - link "Shifting Content" [ref=e639] [cursor=pointer]:
+                      - /url: /shifting-content
+                  - paragraph [ref=e640]: These examples demonstrate elements on a page shifting a few pixels in either direction on each page load
+                - link "Try it out" [ref=e643] [cursor=pointer]:
+                  - /url: /shifting-content
+            - generic [ref=e644]:
+              - generic [ref=e646]:
+                - generic [ref=e647]:
+                  - heading "HTTP Status Codes" [level=3] [ref=e648]:
+                    - link "HTTP Status Codes" [ref=e649] [cursor=pointer]:
+                      - /url: /status-codes
+                  - paragraph [ref=e650]: This page compiles a list of examples for using HTTP status codes. Each page returns a specific code and can be utilized for practicing automated tests
+                - link "Try it out" [ref=e653] [cursor=pointer]:
+                  - /url: /status-codes
+              - generic [ref=e655]:
+                - generic [ref=e656]:
+                  - heading "Dynamic ID" [level=3] [ref=e657]:
+                    - link "Dynamic ID" [ref=e658] [cursor=pointer]:
+                      - /url: /dynamic-id
+                  - paragraph [ref=e659]: Make sure you are not recording dynamic IDs of elements
+                - link "Try it out" [ref=e662] [cursor=pointer]:
+                  - /url: /dynamic-id
+              - generic [ref=e664]:
+                - generic [ref=e665]:
+                  - heading "Entry Ad" [level=3] [ref=e666]:
+                    - link "Entry Ad" [ref=e667] [cursor=pointer]:
+                      - /url: /entry-ad
+                  - paragraph [ref=e668]: Displays an modal ad on page load. If closed, it will not appear on subsequent page loads
+                - link "Try it out" [ref=e671] [cursor=pointer]:
+                  - /url: /entry-ad
+              - generic [ref=e673]:
+                - generic [ref=e674]:
+                  - heading "Exit Intent" [level=3] [ref=e675]:
+                    - link "Exit Intent" [ref=e676] [cursor=pointer]:
+                      - /url: /exit-intent
+                  - paragraph [ref=e677]: An example of when a mouse goes out of viewport, a modal window will appear
+                - link "Try it out" [ref=e680] [cursor=pointer]:
+                  - /url: /exit-intent
+            - generic [ref=e681]:
+              - generic [ref=e683]:
+                - generic [ref=e684]:
+                  - heading "Contact Us" [level=3] [ref=e685]:
+                    - link "Contact Us" [ref=e686] [cursor=pointer]:
+                      - /url: /contact
+                  - paragraph [ref=e687]:
+                    - text: This example showcases a contact page utilizing a standard form
+                    - link "Automation testing tools" [ref=e688] [cursor=pointer]:
+                      - img [ref=e690]
+                      - text: Automation testing tools
+                - link "Try it out" [ref=e694] [cursor=pointer]:
+                  - /url: /contact
+              - generic [ref=e696]:
+                - generic [ref=e697]:
+                  - heading "Google Tracking Events" [level=3] [ref=e698]:
+                    - link "Google Tracking Events" [ref=e699] [cursor=pointer]:
+                      - /url: /google-tracking-events
+                  - paragraph [ref=e700]: This page provides examples of Google tracking events, including common events that can be used to monitor user behavior on a website.
+                - link "Try it out" [ref=e703] [cursor=pointer]:
+                  - /url: /google-tracking-events
+              - generic [ref=e705]:
+                - generic [ref=e706]:
+                  - heading "Sample User Profile" [level=3] [ref=e707]:
+                    - link "Sample User Profile" [ref=e708] [cursor=pointer]:
+                      - /url: /users/1
+                  - paragraph [ref=e709]: Sample User Profile page for Automation Testing Practice
+                - link "Try it out" [ref=e712] [cursor=pointer]:
+                  - /url: /users/1
+              - generic [ref=e714]:
+                - generic [ref=e715]:
+                  - heading "Sample Feedback page" [level=3] [ref=e716]:
+                    - link "Sample Feedback page" [ref=e717] [cursor=pointer]:
+                      - /url: /feedback
+                  - paragraph [ref=e718]: Sample Feedback page for Automation Testing Practice with Selenium
+                - link "Try it out" [ref=e721] [cursor=pointer]:
+                  - /url: /feedback
+            - generic [ref=e722]:
+              - generic [ref=e724]:
+                - generic [ref=e725]:
+                  - heading "Scrollbars" [level=3] [ref=e726]:
+                    - link "Scrollbars" [ref=e727] [cursor=pointer]:
+                      - /url: /scrollbars
+                  - paragraph [ref=e728]: Scrolling an element into view may be a tricky task in automated tests
+                - link "Try it out" [ref=e731] [cursor=pointer]:
+                  - /url: /scrollbars
+              - generic [ref=e733]:
+                - generic [ref=e734]:
+                  - heading "Cookie Consent Alert" [level=3] [ref=e735]:
+                    - link "Cookie Consent Alert" [ref=e736] [cursor=pointer]:
+                      - /url: /cookie-alert
+                  - paragraph [ref=e737]: This page provides an example of using a cookie alert pop-up window, which can be used for practicing automated tests and managing cookies
+                - link "Try it out" [ref=e740] [cursor=pointer]:
+                  - /url: /cookie-alert
+              - generic [ref=e742]:
+                - generic [ref=e743]:
+                  - heading "HTTP Headers" [level=3] [ref=e744]:
+                    - link "HTTP Headers" [ref=e745] [cursor=pointer]:
+                      - /url: /http-headers
+                  - paragraph [ref=e746]: This page displays all HTTP headers that are sent to the server when visiting this page
+                - link "Try it out" [ref=e749] [cursor=pointer]:
+                  - /url: /http-headers
+              - generic [ref=e751]:
+                - generic [ref=e752]:
+                  - heading "Check console logs" [level=3] [ref=e753]:
+                    - link "Check console logs" [ref=e754] [cursor=pointer]:
+                      - /url: /console-logs
+                  - paragraph [ref=e755]: This page is designed to demonstrate how to output messages to the browser console using JavaScript, including logging, tables, warnings, and errors
+                - link "Try it out" [ref=e758] [cursor=pointer]:
+                  - /url: /console-logs
+            - generic [ref=e759]:
+              - generic [ref=e761]:
+                - generic [ref=e762]:
+                  - heading "OAuth 2.0 providers" [level=3] [ref=e763]:
+                    - link "OAuth 2.0 providers" [ref=e764] [cursor=pointer]:
+                      - /url: /notes/app/login
+                  - paragraph [ref=e765]:
+                    - text: Example of using LinkedIn and Google OAuth 2.0 providers to register or login into an application
+                    - link "Manual testing services" [ref=e766] [cursor=pointer]:
+                      - img [ref=e768]
+                      - text: Manual testing services
+                - link "Try it out" [ref=e772] [cursor=pointer]:
+                  - /url: /notes/app/login
+              - generic [ref=e774]:
+                - generic [ref=e775]:
+                  - 'heading "Basic Authentication (user and pass: admin)" [level=3] [ref=e776]':
+                    - 'link "Basic Authentication (user and pass: admin)" [ref=e777] [cursor=pointer]':
+                      - /url: /basic-auth
+                  - paragraph [ref=e778]: This example utilizes Basic Auth, which can be used for practicing automated testing
+                - link "Try it out" [ref=e781] [cursor=pointer]:
+                  - /url: /basic-auth
+              - generic [ref=e783]:
+                - generic [ref=e784]:
+                  - 'heading "Digest Authentication (user and pass: admin)" [level=3] [ref=e785]':
+                    - 'link "Digest Authentication (user and pass: admin)" [ref=e786] [cursor=pointer]':
+                      - /url: /digest-auth
+                  - paragraph [ref=e787]: This example utilizes Digest Auth, which can be used for practicing automated testing
+                - link "Try it out" [ref=e790] [cursor=pointer]:
+                  - /url: /digest-auth
+              - generic [ref=e792]:
+                - generic [ref=e793]:
+                  - heading "Random Number" [level=3] [ref=e794]:
+                    - link "Random Number" [ref=e795] [cursor=pointer]:
+                      - /url: /random-number
+                  - paragraph [ref=e796]: This example generates a random number on each page load, which can be used for practicing automated testing
+                - link "Try it out" [ref=e799] [cursor=pointer]:
+                  - /url: /random-number
+            - generic [ref=e800]:
+              - generic [ref=e802]:
+                - generic [ref=e803]:
+                  - heading "Flaky Test Page Example" [level=3] [ref=e804]:
+                    - link "Flaky Test Page Example" [ref=e805] [cursor=pointer]:
+                      - /url: /flaky-test
+                  - paragraph [ref=e806]: This page is designed to demonstrate a flaky test scenario, which can be used for practicing automated testing
+                - link "Try it out" [ref=e809] [cursor=pointer]:
+                  - /url: /flaky-test
+              - generic [ref=e811]:
+                - generic [ref=e812]:
+                  - heading "About Page" [level=3] [ref=e813]:
+                    - link "About Page" [ref=e814] [cursor=pointer]:
+                      - /url: /about
+                  - paragraph [ref=e815]: An example of an About page that can be used for practicing automated tests
+                - link "Try it out" [ref=e818] [cursor=pointer]:
+                  - /url: /about
+          - generic [ref=e819]:
+            - heading "Apps for Automation Testing Practice Exercises" [level=2] [ref=e820]:
+              - link "Apps" [ref=e821] [cursor=pointer]:
+                - /url: "#"
+                - img [ref=e822]
+                - text: Apps
+              - text: for Automation Testing Practice Exercises
+            - generic [ref=e824]:
+              - generic [ref=e826]:
+                - generic [ref=e827]:
+                  - heading "Notes App | React" [level=3] [ref=e828]:
+                    - link "Notes App | React" [ref=e829] [cursor=pointer]:
+                      - /url: /notes/app
+                  - paragraph [ref=e830]:
+                    - text: A React app for managing tasks with notes. Includes editing, completion tracking, and search/filter features. Ideal for automated testing of modern
+                    - link "apps" [ref=e831] [cursor=pointer]:
+                      - /url: "#"
+                      - img [ref=e832]
+                      - text: apps
+                    - link "Website development services" [ref=e834] [cursor=pointer]:
+                      - img [ref=e836]
+                      - text: Website development services
+                - link "Try it out" [ref=e840] [cursor=pointer]:
+                  - /url: /notes/app
+              - generic [ref=e842]:
+                - generic [ref=e843]:
+                  - heading "Web Parking" [level=3] [ref=e844]:
+                    - link "Web Parking" [ref=e845] [cursor=pointer]:
+                      - /url: /webpark
+                  - paragraph [ref=e846]: Web-based parking e-commerce app demonstrates BDD and testing challenges and opportunities to work with business rules & automated e2e scenarios & BDD Tools
+                - link "Try it out" [ref=e849] [cursor=pointer]:
+                  - /url: /webpark
+              - generic [ref=e851]:
+                - generic [ref=e852]:
+                  - heading "BMI Calculator" [level=3] [ref=e853]:
+                    - link "BMI Calculator" [ref=e854] [cursor=pointer]:
+                      - /url: /bmi
+                  - paragraph [ref=e855]: Demo Body Mass index (BMI) Application for automated testing practice
+                - link "Try it out" [ref=e858] [cursor=pointer]:
+                  - /url: /bmi
+              - generic [ref=e860]:
+                - generic [ref=e861]:
+                  - heading "Secure Password Checker" [level=3] [ref=e862]:
+                    - link "Secure Password Checker" [ref=e863] [cursor=pointer]:
+                      - /url: /secure-password-checker
+                  - paragraph [ref=e864]: Secure Password Checker Application page
+                - link "Try it out" [ref=e867] [cursor=pointer]:
+                  - /url: /secure-password-checker
+            - generic [ref=e868]:
+              - generic [ref=e870]:
+                - generic [ref=e871]:
+                  - heading "Calorie Tracker" [level=3] [ref=e872]:
+                    - link "Calorie Tracker" [ref=e873] [cursor=pointer]:
+                      - /url: /tracalorie
+                  - paragraph [ref=e874]: Calorie Tracker Application
+                - link "Try it out" [ref=e877] [cursor=pointer]:
+                  - /url: /tracalorie
+              - generic [ref=e879]:
+                - generic [ref=e880]:
+                  - heading "Color Wheel" [level=3] [ref=e881]:
+                    - link "Color Wheel" [ref=e882] [cursor=pointer]:
+                      - /url: /color-wheel
+                  - paragraph [ref=e883]: "Demo application: Working with colors"
+                - link "Try it out" [ref=e886] [cursor=pointer]:
+                  - /url: /color-wheel
+              - generic [ref=e888]:
+                - generic [ref=e889]:
+                  - heading "Ecommerce BookStore" [level=3] [ref=e890]:
+                    - link "Ecommerce BookStore" [ref=e891] [cursor=pointer]:
+                      - /url: /bookstore
+                  - paragraph [ref=e892]: E-commerce Bookstore Example Using Stripe Provider for Practicing Automated Tests with Playwright
+                - link "Try it out" [ref=e895] [cursor=pointer]:
+                  - /url: /bookstore
+              - generic [ref=e897]:
+                - generic [ref=e898]:
+                  - heading "Cars Showroom" [level=3] [ref=e899]:
+                    - link "Cars Showroom" [ref=e900] [cursor=pointer]:
+                      - /url: /cars
+                  - paragraph [ref=e901]: A demo with separate UI and API layers for practicing automated UI testing with Playwright.
+                - link "Try it out" [ref=e904] [cursor=pointer]:
+                  - /url: /cars
+          - generic [ref=e905]:
+            - heading "REST APIs for Automation Testing Practice Exercises" [level=2] [ref=e906]
+            - generic [ref=e907]:
+              - generic [ref=e909]:
+                - generic [ref=e910]:
+                  - 'heading "API Testing: Notes API | Swagger" [level=3] [ref=e911]':
+                    - 'link "API Testing: Notes API | Swagger" [ref=e912] [cursor=pointer]':
+                      - /url: /notes/api/api-docs/
+                  - paragraph [ref=e913]:
+                    - text: "API Testing: Notes API Swagger Documentation"
+                    - link "API testing tools" [ref=e914] [cursor=pointer]:
+                      - img [ref=e916]
+                      - text: API testing tools
+                - link "Try it out" [ref=e920] [cursor=pointer]:
+                  - /url: /notes/api/api-docs/
+              - generic [ref=e922]:
+                - generic [ref=e923]:
+                  - heading "Practice API | Swagger" [level=3] [ref=e924]:
+                    - link "Practice API | Swagger" [ref=e925] [cursor=pointer]:
+                      - /url: /api/api-docs/
+                  - paragraph [ref=e926]: Practice WebApp APIs Swagger Documentation
+                - link "Try it out" [ref=e929] [cursor=pointer]:
+                  - /url: /api/api-docs/
+              - generic [ref=e931]:
+                - generic [ref=e932]:
+                  - heading "Health check API" [level=3] [ref=e933]:
+                    - link "Health check API" [ref=e934] [cursor=pointer]:
+                      - /url: /api/health-check
+                  - paragraph [ref=e935]: An endpoint to quickly check the health status of the system under test's APIs
+                - link "Try it out" [ref=e938] [cursor=pointer]:
+                  - /url: /api/health-check
+              - generic [ref=e940]:
+                - generic [ref=e941]:
+                  - heading "MyIP Address API" [level=3] [ref=e942]:
+                    - link "MyIP Address API" [ref=e943] [cursor=pointer]:
+                      - /url: /api/my-ip/
+                  - paragraph [ref=e944]: An API endpoint to retrieve the public IP address.
+                - link "Try it out" [ref=e947] [cursor=pointer]:
+                  - /url: /api/my-ip/
+          - generic [ref=e948]:
+            - heading "Assertions for Automation Testing Practice Exercises" [level=2] [ref=e949]
+            - generic [ref=e950]:
+              - generic [ref=e952]:
+                - generic [ref=e953]:
+                  - heading "Should Be" [level=3] [ref=e954]:
+                    - link "Should Be" [ref=e955] [cursor=pointer]:
+                      - /url: /assertions/should-be
+                  - paragraph [ref=e956]: should be - Asserts that a particular value is truthy or falsy. (Compatible with Cypress, Playwright, Selenium, WebdriverIO, etc.)
+                - link "Try it out" [ref=e959] [cursor=pointer]:
+                  - /url: /assertions/should-be
+              - generic [ref=e961]:
+                - generic [ref=e962]:
+                  - heading "Should Have" [level=3] [ref=e963]:
+                    - link "Should Have" [ref=e964] [cursor=pointer]:
+                      - /url: /assertions/should-have
+                  - paragraph [ref=e965]: should have - Asserts that a DOM element has a certain attribute or property. (Compatible with Cypress, Playwright, Selenium, WebdriverIO, etc.)
+                - link "Try it out" [ref=e968] [cursor=pointer]:
+                  - /url: /assertions/should-have
+              - generic [ref=e970]:
+                - generic [ref=e971]:
+                  - heading "Should Equal" [level=3] [ref=e972]:
+                    - link "Should Equal" [ref=e973] [cursor=pointer]:
+                      - /url: /assertions/should-equal
+                  - paragraph [ref=e974]: should equal - Asserts that a value is equal to a given reference value. (Compatible with Cypress, Playwright, Selenium, WebdriverIO, etc.)
+                - link "Try it out" [ref=e977] [cursor=pointer]:
+                  - /url: /assertions/should-equal
+              - generic [ref=e979]:
+                - generic [ref=e980]:
+                  - heading "Should Match" [level=3] [ref=e981]:
+                    - link "Should Match" [ref=e982] [cursor=pointer]:
+                      - /url: /assertions/should-match
+                  - paragraph [ref=e983]: should match - Asserts that a value matches a particular regular expression. (Compatible with Cypress, Playwright, Selenium, WebdriverIO, etc.)
+                - link "Try it out" [ref=e986] [cursor=pointer]:
+                  - /url: /assertions/should-match
+            - generic [ref=e987]:
+              - generic [ref=e989]:
+                - generic [ref=e990]:
+                  - heading "Should Contain" [level=3] [ref=e991]:
+                    - link "Should Contain" [ref=e992] [cursor=pointer]:
+                      - /url: /assertions/should-contain
+                  - paragraph [ref=e993]:
+                    - text: should contain - Asserts that a string includes a particular substring. (Compatible with Cypress, Playwright, Selenium, WebdriverIO, etc.)
+                    - link "Selenium WebDriver training" [ref=e994] [cursor=pointer]:
+                      - img [ref=e996]
+                      - text: Selenium WebDriver training
+                - link "Try it out" [ref=e1000] [cursor=pointer]:
+                  - /url: /assertions/should-contain
+              - generic [ref=e1002]:
+                - generic [ref=e1003]:
+                  - heading "Should Include" [level=3] [ref=e1004]:
+                    - link "Should Include" [ref=e1005] [cursor=pointer]:
+                      - /url: /assertions/should-include
+                  - paragraph [ref=e1006]: should include - Asserts that an array or object includes a particular value. (Compatible with Cypress, Playwright, Selenium, WebdriverIO, etc.)
+                - link "Try it out" [ref=e1009] [cursor=pointer]:
+                  - /url: /assertions/should-include
+              - generic [ref=e1011]:
+                - generic [ref=e1012]:
+                  - heading "Should Exist" [level=3] [ref=e1013]:
+                    - link "Should Exist" [ref=e1014] [cursor=pointer]:
+                      - /url: /assertions/should-exist
+                  - paragraph [ref=e1015]: should exist - Asserts that a DOM element exists in the DOM. (Compatible with Cypress, Playwright, Selenium, WebdriverIO, etc.)
+                - link "Try it out" [ref=e1018] [cursor=pointer]:
+                  - /url: /assertions/should-exist
+          - generic [ref=e1019]:
+            - heading "Reports Examples" [level=2] [ref=e1020]
+            - generic [ref=e1021]:
+              - generic [ref=e1023]:
+                - generic [ref=e1024]:
+                  - heading "Allure Reports" [level=3] [ref=e1025]:
+                    - link "Allure Reports" [ref=e1026] [cursor=pointer]:
+                      - /url: /allure-reports
+                  - paragraph [ref=e1027]: "Examples of Allure Reports: Allure Report is a flexible, lightweight, multi-language test reporting tool that can be used with Cypress, Selenium, WebdriverIO, Mocha, etc."
+                - link "Try it out" [ref=e1030] [cursor=pointer]:
+                  - /url: /allure-reports
+              - generic [ref=e1032]:
+                - generic [ref=e1033]:
+                  - heading "Mochawesome Reports" [level=3] [ref=e1034]:
+                    - link "Mochawesome Reports" [ref=e1035] [cursor=pointer]:
+                      - /url: /mochawesome-reports
+                  - paragraph [ref=e1036]: "Examples of Mochawesome Reports: Mochawesome reports are designed in a simple and mobile-friendly way, and they use Chart.js to visualize the test reports based on Mocha"
+                - link "Try it out" [ref=e1039] [cursor=pointer]:
+                  - /url: /mochawesome-reports
+          - generic [ref=e1040]:
+            - heading "Tools for QA and SDET Engineers" [level=2] [ref=e1041]
+            - generic [ref=e1042]:
+              - generic [ref=e1044]:
+                - generic [ref=e1045]:
+                  - heading "Xpath and Css Tester" [level=3] [ref=e1046]:
+                    - link "Xpath and Css Tester" [ref=e1047] [cursor=pointer]:
+                      - /url: /xpath-css-tester
+                  - paragraph [ref=e1048]:
+                    - text: Free Online Xpath and Css Selector Tester and Evaluator Tool. Learn CSS and XPath Locator in an easy and fun way
+                    - link "Automation testing tools" [ref=e1049] [cursor=pointer]:
+                      - img [ref=e1051]
+                      - text: Automation testing tools
+                - link "Try it out" [ref=e1055] [cursor=pointer]:
+                  - /url: /xpath-css-tester
+              - generic [ref=e1057]:
+                - generic [ref=e1058]:
+                  - heading "JavaScript, Mocha, Chai, and Sinon Player/Runner" [level=3] [ref=e1059]:
+                    - link "JavaScript, Mocha, Chai, and Sinon Player/Runner" [ref=e1060] [cursor=pointer]:
+                      - /url: /mocha-chai-sinon-player
+                  - paragraph [ref=e1061]: Free online JavaScript, Mocha, Chai, and Sinon player tool. Get started with Mocha, Chai, and Sinon using your browser
+                - link "Try it out" [ref=e1064] [cursor=pointer]:
+                  - /url: /mocha-chai-sinon-player
+        - generic [ref=e1066]:
+          - heading "About this site (Practice Test Automation Website):" [level=2] [ref=e1067]
+          - paragraph [ref=e1068]: "Best Practice Test Automation Website for Selenium, Playwright, Cypress, WebdriverIO and Postman : Free Web UI and REST API Examples"
+        - generic [ref=e1070]:
+          - text: "Designed for practicing test automation for web and API using popular tools in the market:"
+          - list [ref=e1071]:
+            - listitem [ref=e1072]:
+              - link "Selenium Webdriver" [ref=e1073] [cursor=pointer]:
+                - /url: https://www.selenium.dev/
+            - listitem [ref=e1074]:
+              - link "Playwright" [ref=e1075] [cursor=pointer]:
+                - /url: https://playwright.dev/
+            - listitem [ref=e1076]:
+              - link "Cypress" [ref=e1077] [cursor=pointer]:
+                - /url: https://www.cypress.io/
+            - listitem [ref=e1078]:
+              - link "Puppeteer" [ref=e1079] [cursor=pointer]:
+                - /url: https://pptr.dev/
+            - listitem [ref=e1080]:
+              - link "WebDriverIO" [ref=e1081] [cursor=pointer]:
+                - /url: https://webdriver.io/
+            - listitem [ref=e1082]:
+              - link "Nightwatch" [ref=e1083] [cursor=pointer]:
+                - /url: https://nightwatchjs.org/
+            - listitem [ref=e1084]:
+              - link "Axios" [ref=e1085] [cursor=pointer]:
+                - /url: https://axios-http.com/
+            - listitem [ref=e1086]:
+              - link "Postman" [ref=e1087] [cursor=pointer]:
+                - /url: https://www.postman.com/
+            - listitem [ref=e1088]:
+              - link "Bruno" [ref=e1089] [cursor=pointer]:
+                - /url: https://www.usebruno.com/
+          - text: and more...
+          - text: "The site offers a variety of dummy examples for automated scenarios that cover many common situations, including:"
+          - list [ref=e1090]:
+            - listitem [ref=e1091]: "The Test Login page: Learn to automate login workflows and find additional examples for multi-factor authentication and OAuth."
+            - listitem [ref=e1092]: "The Test Reset password page: Automate password reset flows, with other examples like email verifications and security questions."
+            - listitem [ref=e1093]: "The validation form: Practice form validation techniques, with extra cases like dynamic form fields and validation rules."
+            - listitem [ref=e1094]: "The calendar and dates page: Automate interactions with date pickers and calendars, and explore more examples for time zone handling and scheduling."
+            - listitem [ref=e1095]: "The drag-and-drop scenario: The drag-and-drop scenario: Implement drag-and-drop functionality, with additional examples like sortable lists and file uploads."
+            - listitem [ref=e1096]:
+              - text: "The shadow DOM dummy page:"
+              - text: Work with shadow DOM elements, including more complex scenarios like nested shadow DOMs and style encapsulation.
+            - listitem [ref=e1097]: "JavaScript dialog and popup examples: Automate interactions with dialogs and popups, with further examples including custom modal windows and alert handling."
+            - listitem [ref=e1098]: "Swagger documentation: Test API endpoints using Swagger, and explore other API documentation tools available on the site."
+            - listitem [ref=e1099]: "A modern dummy real-world app using React technology: Practice automation on a React-based application."
+            - link "Manual testing services" [ref=e1100] [cursor=pointer]:
+              - img [ref=e1102]
+              - text: Manual testing services
+          - text: "This platform also provides a set of tools designed to help QA (Quality Assurance engineers) and SDETs (Software Development Engineers in Test) improve their skills:"
+          - list [ref=e1104]:
+            - listitem [ref=e1105]: "Free CSS and XPath tools with preview capabilities: Enhance your learning experience with additional tools for CSS selector generators, XPath validation, and more."
+            - listitem [ref=e1106]: "A free JavaScript, Mocha, Chai, and Axios editor and runner: Experiment with these tools in the provided JS editor and Mocha runner"
+            - listitem [ref=e1107]: "A color wheel app for fun: Enjoy a playful way to learn about colors, and discover other creative tools available for making the learning process enjoyable."
+          - text: Explore the website for more comprehensive examples and tools to support your test automation learning journey.
+      - insertion [ref=e1109]:
+        - generic [ref=e1111]:
+          - generic "These are topics related to the article that might interest you" [ref=e1112]: Discover more
+          - link "Test" [ref=e1113] [cursor=pointer]:
+            - img [ref=e1115]
+            - text: Test
+          - link "automation testing" [ref=e1117] [cursor=pointer]:
+            - img [ref=e1119]
+            - text: automation testing
+          - link "testing" [ref=e1121] [cursor=pointer]:
+            - img [ref=e1123]
+            - text: testing
+          - link "User interface" [ref=e1125] [cursor=pointer]:
+            - img [ref=e1127]
+            - text: User interface
+          - link "Automation practice website" [ref=e1129] [cursor=pointer]:
+            - img [ref=e1131]
+            - text: Automation practice website
+          - link "application" [ref=e1133] [cursor=pointer]:
+            - img [ref=e1135]
+            - text: application
+          - link "API testing tools" [ref=e1137] [cursor=pointer]:
+            - img [ref=e1139]
+            - text: API testing tools
+          - link "Playwright test examples" [ref=e1141] [cursor=pointer]:
+            - img [ref=e1143]
+            - text: Playwright test examples
+          - link "ISTQB Exam Prep" [ref=e1145] [cursor=pointer]:
+            - img [ref=e1147]
+            - text: ISTQB Exam Prep
+          - link "REST API examples" [ref=e1149] [cursor=pointer]:
+            - img [ref=e1151]
+            - text: REST API examples
+  - contentinfo [ref=e1153]:
+    - generic [ref=e1158]:
+      - heading "Practice Test Automation WebSite for Web UI and Rest API" [level=4] [ref=e1159]
+      - paragraph [ref=e1160]:
+        - text: "Version: 874f3178 | Copyright"
+        - link "Expand Testing" [ref=e1161] [cursor=pointer]:
+          - /url: https://expandtesting.com/
+        - text: "2025"
+  - img [ref=e1163] [cursor=pointer]
+  - insertion [ref=e1165]:
+    - iframe [ref=e1168]:
+      - generic [ref=f6e2]:
+        - iframe [ref=f6e5]:
+          - generic [ref=f7e1] [cursor=pointer]:
+            - generic:
+              - generic [ref=f7e4]: 14 DAYS
+              - generic [ref=f7e5]: FREE
+            - generic [ref=f7e7]: CHOOSE HAPPY
+            - generic [ref=f7e9]: CHOOSE HAPPY
+            - generic [ref=f7e11]: TRY FOR FREE
+        - generic [ref=f6e6]:
+          - generic:
+            - img [ref=f6e10] [cursor=pointer]
+            - button [ref=f6e13] [cursor=pointer]:
+              - img [ref=f6e14]
+```

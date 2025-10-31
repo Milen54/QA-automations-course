@@ -1,4 +1,4 @@
-export function getFailedResults(results) {
+function getFailedResults(results) {
   let failEntries = results.filter(function (entry) {
     if (entry === "FAIL") {
       return entry;
@@ -12,7 +12,7 @@ export function getFailedResults(results) {
 // console.log(`Test results: ${testResults}`);
 // console.log(`Failed entries: ${failedTests}`);
 
-export function getHighPriority(tests) {
+function getHighPriority(tests) {
   let highPriority = tests.filter(function ([name, status, time, priority]) {
     return priority === "HIGH";
   });
@@ -53,7 +53,7 @@ let highPriorityForTable = highPriorityRaw.map(function ([
 // console.log("High priority tests:");
 // console.table(highPriorityForTable);
 
-export function getSlowTests(tests1) {
+function getSlowTests(tests1) {
   let slowTests = tests1.filter(function ([name, status, time, priority]) {
     return time > 1000;
   });
@@ -92,7 +92,7 @@ let slowTestsForTable = slowTests.map(function([name, status, time, priority]){
 // console.log("Slow tests");
 // console.table(slowTestsForTable);
 
-export function findTestByKeyword(names, keyword) {
+function findTestByKeyword(names, keyword) {
     let keywordContains = names.filter(function(name){
         return name.includes(keyword);
 

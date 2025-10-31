@@ -1,4 +1,4 @@
-export function countPassedTests(results) {
+function countPassedTests(results) {
     let passedCount = 0;
 
     for (let i = 0; i < results.length; i++) {
@@ -11,7 +11,7 @@ export function countPassedTests(results) {
 // let testResults = ["PASS", "FAIL", "PASS", "SKIP", "PASS"];
 // console.log("Passed tests:", countPassedTests(testResults));
 
-export function formatExecutionTime(milliseconds) {
+function formatExecutionTime(milliseconds) {
 
     if (milliseconds < 1000) {
         return milliseconds + "ms";
@@ -24,7 +24,7 @@ export function formatExecutionTime(milliseconds) {
 // console.log("Formatted execution time:", formatExecutionTime(timeResults[0]));
 // console.log("Formatted execution time:", formatExecutionTime(timeResults[1]));
 
-export function findFailedTests(testNames, testResults) {
+function findFailedTests(testNames, testResults) {
     let failedNames = [];
 
     for (let i = 0; i < testNames.length; i++) {
@@ -41,15 +41,15 @@ export function findFailedTests(testNames, testResults) {
 // Demonstration calls
 
 // 1. countPassedTests
-// let testResults = ["PASS", "FAIL", "PASS", "SKIP", "PASS"];
-// console.log("Passed tests:", countPassedTests(testResults));
+let testResults = ["PASS", "FAIL", "PASS", "SKIP", "PASS"];
+console.log("Passed tests:", countPassedTests(testResults));
 
 // 2. formatExecutionTime
-// let timeResults = [1100, 800];
-// console.log("Formatted execution time:", formatExecutionTime(timeResults[0]));
-// console.log("Formatted execution time:", formatExecutionTime(timeResults[1]));
+let timeResults = [1100, 800];
+console.log("Formatted execution time:", formatExecutionTime(timeResults[0]));
+console.log("Formatted execution time:", formatExecutionTime(timeResults[1]));
 
 // 3. findFailedTests
-// let tests = ["login_test", "logout_test", "checkout_test"];
-// let results = ["PASS", "FAIL", "SKIP"];
-// console.log("Failed tests:", findFailedTests(tests, results)); 
+let tests = ["login_test", "logout_test", "checkout_test"];
+let results = ["PASS", "FAIL", "SKIP"];
+console.log("Failed tests:", findFailedTests(tests, results)); 
