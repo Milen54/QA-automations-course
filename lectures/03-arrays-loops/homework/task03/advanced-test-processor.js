@@ -1,4 +1,4 @@
-function analyzeTestResults(testNames, testResults, executionTime) {
+export function analyzeTestResults(testNames, testResults, executionTime) {
   let criticalFailures = [];
   let slowTest = [];
   let quickPasses = [];
@@ -25,10 +25,10 @@ function analyzeTestResults(testNames, testResults, executionTime) {
 
   return [criticalFailures, slowTest, quickPasses];
 }
-let tests = ["login_test", "logout_test", "register_test"];
-let results = ["FAIL", "PASS", "PASS"];
-let time = [1200, 2500, 100];
-analyzeTestResults(tests, results, time);
+// let tests = ["login_test", "logout_test", "register_test"];
+// let results = ["FAIL", "PASS", "PASS"];
+// let time = [1200, 2500, 100];
+// analyzeTestResults(tests, results, time);
 
 function processTestEnvironments(testCases, environments) {
   const environmentResults = [];

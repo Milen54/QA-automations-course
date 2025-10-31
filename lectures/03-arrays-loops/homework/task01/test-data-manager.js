@@ -1,4 +1,4 @@
-function initializeTestData() {
+export function initializeTestData() {
     let testUsers = [];
     let testEnvironments = ["development", "staging", "production"];
     let browserTypes = ["Chrome", "Firefox", "Safari", "Edge"];
@@ -37,7 +37,7 @@ function displayTestDataInfo(testUsers, testEnvironments, browserTypes) {
 // let total = displayTestDataInfo(testUsers, testEnvironments, browserTypes);
 // console.log(`Total data elements across all arays: ${total}`);
 
-function addTestUsers(userArray, newUserEmail) {
+export function addTestUsers(userArray, newUserEmail) {
     console.log(`User array length before adding: ${userArray.length}`);
 
     userArray.push(newUserEmail);
@@ -51,7 +51,7 @@ function addTestUsers(userArray, newUserEmail) {
 // addTestUsers(testUsers, "dimitar@example.com");
 // addTestUsers(testUsers, "maria@example.com");
 
-function buildTestQueue() {
+export function buildTestQueue() {
     let testQueue = [];
 
     testQueue.push("login_test");
@@ -69,7 +69,7 @@ function buildTestQueue() {
 }
 // buildTestQueue();
 
-function processTestQueue(testQueue) {
+export function processTestQueue(testQueue) {
     let processed = 0;
 
     while (testQueue.length > 0) {
@@ -85,7 +85,7 @@ const queue = buildTestQueue();
 const totalProcessed = processTestQueue(queue);
 console.log(`Total tests processed: ${totalProcessed}`);
 
-function manageTestResults() {
+export function manageTestResults() {
     let passedTests = [];
     let failedTests = [];
     let skippedTests = [];
@@ -103,7 +103,7 @@ function manageTestResults() {
 }
 // manageTestResults();
 
-function rotateTestEnvironments(environmentsArray) {
+export function rotateTestEnvironments(environmentsArray) {
     const first = environmentsArray[0];
     const last = environmentsArray.pop();
 
@@ -116,7 +116,7 @@ function rotateTestEnvironments(environmentsArray) {
 }
 // rotateTestEnvironments(["dev", "Qa", "prod"]);
 
-function validateTestDataIntegrity(testUsers, testEnvironments, browserTypes) {
+export function validateTestDataIntegrity(testUsers, testEnvironments, browserTypes) {
     let validationIssues = [];
 
     if (testUsers.length === 0) {
@@ -154,7 +154,7 @@ let browserTypes = mixedArray[2];
 const issues = validateTestDataIntegrity(testUsers, testEnvironments, browserTypes);
 console.log("Issues array:", issues);
 
-function generateTestReport(passedTests, failedTests, skippedTests) {
+export function generateTestReport(passedTests, failedTests, skippedTests) {
     
     const passedCount = passedTests.length; //2
     const failedCount = failedTests.length; //1

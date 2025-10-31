@@ -1,4 +1,4 @@
-function isValidEmail(email) {
+export function isValidEmail(email) {
     let hasAtSymbol = email.includes("@");
     let hasDotSymbol = email.includes(".");
     let isNotEmpty = email.length > 0;
@@ -9,7 +9,7 @@ function isValidEmail(email) {
 // console.log(isValidEmail("invalid@email"));
 // console.log(isValidEmail("invalid.email"));
 
-function formatDuration(milliseconds) {
+export function formatDuration(milliseconds) {
     if (milliseconds < 1000) {
         return milliseconds + "ms";
     } else {
@@ -19,7 +19,7 @@ function formatDuration(milliseconds) {
 }
 // console.log(formatDuration(1200));
 
-function generateTestEmail(baseName, domain) {
+export function generateTestEmail(baseName, domain) {
     if (!domain) {
         domain = "testcompany.com";
     }
@@ -32,15 +32,15 @@ function generateTestEmail(baseName, domain) {
 
 // Demonstration calls
 
-// 1. isValidEmail
-console.log(isValidEmail("user@test.com"));
-console.log(isValidEmail("invalid@email"));
-console.log(isValidEmail("invalid.email"));
+// // 1. isValidEmail
+// // console.log(isValidEmail("user@test.com"));
+// console.log(isValidEmail("invalid@email"));
+// console.log(isValidEmail("invalid.email"));
 
 // 2. formatDuration
-console.log(formatDuration(1200));
-console.log(formatDuration(800));
+// console.log(formatDuration(1200));
+// console.log(formatDuration(800));
 
 // 3. generateTestEmail
-console.log("Generated email:", generateTestEmail("Milen", "example.com"));
-console.log("Generated email:", generateTestEmail("Ivan"));
+// console.log("Generated email:", generateTestEmail("Milen", "example.com"));
+// console.log("Generated email:", generateTestEmail("Ivan"));
