@@ -4,4 +4,8 @@ package-lock.json
 test-results/
 playwright-report/
 *.webm
+*.ziptest-results/
+playwright-report/
+*.webm
 *.zip
+
