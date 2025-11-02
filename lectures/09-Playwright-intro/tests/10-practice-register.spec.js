@@ -4,7 +4,7 @@ test("Successful registration", async ({ page }) => {
   // Step 1: Navigate to website /register endpoint
   await page.goto("https://practice.expandtesting.com/register");
 
-  // Step 2: Verify the link is valid
+  // Step 2: Verify the URL is valid
   await expect(page).toHaveURL("https://practice.expandtesting.com/register");
 
   // Step 3: Fill in NEW credentials
