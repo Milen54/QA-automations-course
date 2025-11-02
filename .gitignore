@@ -1,3 +1,11 @@
 node_modules/
 package-lock.json
 .DS_Store
+test-results/
+playwright-report/
+*.webm
+*.ziptest-results/
+playwright-report/
+*.webm
+*.zip
+
