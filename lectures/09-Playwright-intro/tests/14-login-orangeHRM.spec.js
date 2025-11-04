@@ -6,10 +6,8 @@ test("Successful login test on demo Orange HRM website", async ({ page }) => {
     "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
   );
 
-  // Step 2: Verify that URL matches login endpoint
-  await expect(page).toHaveURL(
-    "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
-  );
+  // Step 2: Verify that you are on the login page
+  await expect(page.locator("#app h5")).toBeVisible();
 
   // Step 3: Fill in valid credentials
   await page.locator('[name="username"]').fill("Admin");

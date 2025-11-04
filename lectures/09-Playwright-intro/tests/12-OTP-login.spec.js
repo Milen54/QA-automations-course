@@ -5,8 +5,12 @@ test("OTP Login test", async ({ page }) => {
   // Step 1: Navigate to website endpoint /otp-login
   await page.goto("https://practice.expandtesting.com/otp-login");
 
-  // Step 2: Verify that the URL is valid
-  await expect(page).toHaveURL("https://practice.expandtesting.com/otp-login");
+  // Step 2: Verify that you are on the OTP Login page
+  await expect(
+    page.locator("#contentbody", {
+      hasText: "OTP Login page for Automation Testing Practice",
+    })
+  ).toBeVisible();
 
   // Step 3: Fill in email adress and click 'Send OTP Code' button
   await page.locator("#email").fill("practice@expandtesting.com");
