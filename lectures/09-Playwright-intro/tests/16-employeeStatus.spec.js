@@ -1,15 +1,15 @@
 import { test, expect } from "@playwright/test";
 
-test("Verify job status shows 'Full-Time Permanent' in Job Details", async ({ page }) => {
+test("Verify job status shows 'Full-Time Permanent' in Job Details", async ({
+  page,
+}) => {
   // Step 1: Navigate to login page
   await page.goto(
     "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
   );
 
-  // Step 2: Verify that URL matches login endpoint
-  await expect(page).toHaveURL(
-    "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
-  );
+  // Step 2: Verify that you are on the login page
+  await expect(page.locator("#app h5")).toBeVisible();
 
   // Step 3: Fill in valid credentials
   await page.locator('[name="username"]').fill("Admin");
@@ -33,5 +33,4 @@ test("Verify job status shows 'Full-Time Permanent' in Job Details", async ({ pa
 
   await expect(status).toBeVisible();
   await expect(status).toHaveText(/Full-Time Permanent/i);
-
 });

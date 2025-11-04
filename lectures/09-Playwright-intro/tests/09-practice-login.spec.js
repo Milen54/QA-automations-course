@@ -4,8 +4,12 @@ test("Successful login test on public demo site", async ({ page }) => {
   // Step 1: Navigate to the login page URL
   await page.goto("https://practice.expandtesting.com/login");
 
-  // Step 2: Verify that the login page is displayed successfully
-  await expect(page).toHaveURL("https://practice.expandtesting.com/login");
+  // Step 2: Verify that you are on the login page
+  await expect(
+    page.locator("#contentbody h1", {
+      hasText: "Test Login page for Automation Testing Practice",
+    })
+  ).toBeVisible();
 
   // Step 3: Fill in valid credentials
   await page.locator("#username").fill("practice");
@@ -29,7 +33,7 @@ test("Successful login test on public demo site", async ({ page }) => {
 });
 
 test("Login with invalid username", async ({ page }) => {
-      // Step 1: Navigate to the login page URL
+  // Step 1: Navigate to the login page URL
 
   await page.goto("https://practice.expandtesting.com/login");
 

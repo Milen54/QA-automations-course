@@ -4,10 +4,13 @@ test("Retrieve password", async ({ page }) => {
   // Step 1: Navigate to website /forgot-password endpoint
   await page.goto("https://practice.expandtesting.com/forgot-password");
 
-  // Step 2: Verify that URL is valid
-  await expect(page).toHaveURL(
-    "https://practice.expandtesting.com/forgot-password"
-  );
+  // Step 2: Verify that you are on forgot pass form page
+  await expect(
+    page.locator("#contentbody", {
+      hasText:
+        "Dummy Forgot Password form page for Automation Testing Practice",
+    })
+  ).toBeVisible();
 
   // Step 3: Fill in email address
   await page.locator("#email").fill("email@example.com");
