@@ -25,9 +25,9 @@ export class SubmissionsTablePage {
     });
   }
   async getHeaderTexts() {
-  const texts = await this.headers.allTextContents();
-  return texts.map(t => t.trim());
-}
+    const texts = await this.headers.allTextContents();
+    return texts.map((t) => t.trim());
+  }
   async getTotalCount() {
     return await this.speakerRows.count();
   }
