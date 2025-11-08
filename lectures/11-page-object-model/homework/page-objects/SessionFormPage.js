@@ -40,8 +40,8 @@ export class SessionFormPage {
     return true;
   }
   async selectAudience(level) {
-  await this.page.locator(`#level-${level}`).check();
-}
+    await this.page.locator(`#level-${level}`).check();
+  }
 
   async acceptCodeOfConduct() {
     await this.codeOfConductCheckbox.check();

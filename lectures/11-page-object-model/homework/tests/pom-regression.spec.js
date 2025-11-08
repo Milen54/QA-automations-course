@@ -4,7 +4,7 @@ import { SessionConfirmationPage } from "../page-objects/SessionConfirmationPage
 import { SessionFormPage } from "../page-objects/SessionFormPage";
 import path from "node:path";
 
-test("Happy path - successful submission and confirmation", async ({
+test("Test A - Happy path - successful submission and confirmation", async ({
   page,
 }) => {
   const sessionFormPage = new SessionFormPage(page);
@@ -34,7 +34,9 @@ test("Happy path - successful submission and confirmation", async ({
   await expect(confirmationPage.confirmFiles).toHaveText("sample-resume.pdf");
 });
 
-test("Test B", async ({ page }) => {
+test("Test B - Table moderation – approve and decline sessions with dialogs", async ({
+  page,
+}) => {
   const submissionsTablePage = new SubmissionsTablePage(page);
 
   await submissionsTablePage.navigate();
