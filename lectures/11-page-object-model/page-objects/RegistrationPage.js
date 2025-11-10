@@ -60,8 +60,8 @@ export class RegistrationPage {
   async completeRegistration(data) {
     await this.fillName(data.fullName);
     await this.chooseCountry(data.country);
-    await this.chooseInterests(data.interest);
-    await this.chooseLevel(data.level);
+    await this.chooseInterests(data.interests);
+    await this.chooseLevel(data.experience);
     await this.uploadFile(data.files);
     await this.acceptTerms();
     await this.submitForm();
