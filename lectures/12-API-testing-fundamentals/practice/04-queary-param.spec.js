@@ -28,3 +28,25 @@ test("Combine multiple parameters", async ({ request })=> {
         console.log("Post id:", post.id);
     });
 });
+
+test("search comments by post", async ({ request })=> {
+    // GET comments for post 1
+    const response = await request.get(
+        "https://jsonplaceholder.typicode.com/comments?postId=1"
+    );
+
+    const comments = await response.json();
+
+    console.log(`Post 1 has ${comments.length} comments`);
+
+    // Verify all comments belong to post 1
+    comments.forEach(comment => {
+        expect(comment.postId).toBe(1);
+    });
+
+    // Verify comment structure
+    expect(comments[0]).toHaveProperty("id");
+    expect(comments[0]).toHaveProperty("name");
+    expect(comments[0]).toHaveProperty("email");
+    expect(comments[0]).toHaveProperty("body");
+});
