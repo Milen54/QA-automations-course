@@ -8,6 +8,7 @@ export default defineConfig({
     headless: false,
     screenshot: "only-on-failure",
     video: "retain-on-failure",
+    trace: "retain-on-failure",
   },
   reporter: [["html"]],
   // Enable additional browsers later if desired
