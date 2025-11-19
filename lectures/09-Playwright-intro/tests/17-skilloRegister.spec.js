@@ -4,10 +4,14 @@ function generateUsername() {
   const random = Math.floor(Math.random() * 1000);
   return `user${random}`;
 }
-
+// Този метод генерира много дълъг имейл и регистрацията фейлва!!!IMPORTANT
+// function generateEmail() {
+//   const timestamp = Date.now();
+//   return `user${timestamp}@mail.com`;
+// }
 function generateEmail() {
-  const timestamp = Date.now();
-  return `user${timestamp}@mail.com`;
+  const rand = Math.floor(Math.random() * 10000);  // 0–9999
+  return `user${rand}@mail.com`;
 }
 
 function generateDate() {
@@ -25,6 +29,7 @@ test("Positive test - successful registration", async ({ page }) => {
   await page.locator("#defaultRegisterFormPassword").fill("Admin321");
   await page.locator('[name="verify-password"]').fill("Admin321");
   await page.locator('[name="pulic-info"]').fill("nothing");
+  await expect(page.locator("#sign-in-button")).toBeEnabled();
   await page.locator("#sign-in-button").click();
 
 //   await expect(page.locator("#nav-link-home")).toBeVisible();
